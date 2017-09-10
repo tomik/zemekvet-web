@@ -5,11 +5,11 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
-gem: [jekyll-paginate, jekyll-gists]
+plugins: [jekyll-paginate, redcarpet, pygments.rb]
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            Amrita
+tagline:          'V proudu energie života'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
