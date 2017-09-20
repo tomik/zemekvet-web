@@ -5,13 +5,13 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
-plugins: [jekyll-paginate, redcarpet, pygments.rb]
+plugins:          [jekyll-paginate, redcarpet, pygments.rb]
 
 # Setup
 title:            Amrita
 tagline:          'V proudu energie života'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+description:      'Prostor sebepoznání a harmonie v Orlických horách.'
+url:              http://www.amrita.cz
 baseurl:          /
 
 author:
@@ -25,3 +25,13 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+
+blog:
+  url:            /blog
+
+kontakt:
+  url:            /kontakt
+
+akce:
+  url:            /akce
