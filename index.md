@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: O nás
 ---
 
 ## Vize
@@ -9,8 +9,8 @@ title: Home
 
 * přítomnost - přesunout se z hlavy do Tady a teď
 * svobodný život - odvaha jít svou cestou
-* tvořivost - vyrábíme, stavíme, zahrádkaříme, zpíváme, hrajeme, smějeme se a mnoho dalšího
-* harmonie s přírodou - vážit si toho, co nám příroda dává
+* tvořivost - vyrábíme, stavíme, zahrádkaříme, zpíváme, hrajeme, smějeme se
+* harmonie s přírodou - vážit si jejích darů a neplýtvat jimi
 
 ## Pobyty
 
@@ -24,4 +24,4 @@ Pořádáme víkendové a týdenní pobyty zaměřené na předchozí témata, o
 
 ## Prostor
 
-Momentálně upravujeme chalupu, kde bydlíme na prostor setkávání. Jde o místo na polosamotě stranou hlavních komunikací, co by kamenem dohodil ke kouzelné říčce Zdobnici. Vzniká nám tu krásná meditační místnost, několik pokojíčků, společné prostory, dílnička, zahrádka s jezírky a výhledově možná i sauna a domečky pro pobyt v tichu. První návštěvníky víkendových či týdenních pobytů zde přivítáme na jaře 2018.
+Momentálně upravujeme chalupu, kde bydlíme, na prostor setkávání. Jde o místo na polosamotě stranou hlavních komunikací, co by kamenem dohodil ke kouzelné říčce Zdobnici. Vzniká nám tu krásná meditační místnost, několik pokojíčků, společné prostory, dílnička, zahrádka s jezírky a výhledově možná i sauna a domečky pro pobyt v tichu. První návštěvníky víkendových či týdenních pobytů zde přivítáme na jaře 2018.
