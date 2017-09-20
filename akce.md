@@ -10,4 +10,6 @@ layout: page
 
 Momentálně pro Vás připravujeme prostor pro setkávání, víkendové a týdenní pobyty v místě sídla spolku. Pracujeme na tom, abychom první návštěvníky uvítali již na jaře 2018.
 
-Práce tu je opravdu hodně, pokud máte čas a chuť tak velmi uvítáme dobrovolnou (i placenou) pomoc. Napište nám email.
+## Výpomoc
+
+Práce tu teď máme opravdu hodně, pokud máte čas a chuť tak velmi uvítáme dobrovolnou (i placenou) pomoc. Možnosti seberealizace jsou jak při řemeslných pracích, okolo domu, tak třeba i v kuchyni a domácnosti. Samozřejmostí je možnost přespání, zajištění stravy a příjemná atmosféra. Napište nám email. 
