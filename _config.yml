@@ -8,10 +8,10 @@ permalink:        pretty
 plugins:          [jekyll-paginate, redcarpet, pygments.rb]
 
 # Setup
-title:            Amrita
-tagline:          'V proudu energie života'
-description:      'Prostor sebepoznání a harmonie v Orlických horách.'
-url:              http://www.amrita.cz
+title:            Zeměkvět
+tagline:          ''
+description:      'Ať naše země kvete.'
+url:              http://www.zemekvet.cz
 baseurl:          /
 
 author:
@@ -27,11 +27,14 @@ github:
   repo:           https://github.com/poole/hyde
 
 
-blog:
-  url:            /blog
+support:
+  url:            /podpora
 
-kontakt:
+projects:
+  url:            /projekty
+
+contact:
   url:            /kontakt
 
 akce:
-  url:            /akce
+  url:            /

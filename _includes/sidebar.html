@@ -12,11 +12,13 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">O nás</a>
 
-      <a class="sidebar-nav-item{% if page.url == site.events.url %} active{% endif %}" href="{{ site.akce.url }}">Akce</a>
+      <a class="sidebar-nav-item{% if page.url == site.events.url %} active{% endif %}" href="{{ site.support.url }}">Podpora</a>
+
+      <a class="sidebar-nav-item{% if page.url == site.events.url %} active{% endif %}" href="{{ site.projects.url }}">Projekty</a>
 <!--
       <a class="sidebar-nav-item{% if page.url == site.blog.url %} active{% endif %}" href="{{ site.blog.url }}">Blog</a> -->
 
-      <a class="sidebar-nav-item{% if page.url == site.blog.url %} active{% endif %}" href="{{ site.kontakt.url }}">Kontakt</a>
+      <a class="sidebar-nav-item{% if page.url == site.blog.url %} active{% endif %}" href="{{ site.contact.url }}">Kontakt</a>
 
       <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav> -->
