@@ -32,7 +32,8 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Gotham rounded";
+  font-weight: bold;
 }
 @media (min-width: 48em) {
   html {
@@ -45,7 +46,6 @@ html {
   }
 }
 
-
 /*
  * Sidebar
  *
@@ -57,15 +57,33 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #60373D;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 14rem;
+    text-align: left;
+  }
+}
+
+.sidebar-stripe {
+  background-color: #88B04B;
+  height: 0.5rem;
+}
+
+@media (min-width: 48em) {
+  .sidebar-stripe {
+    position: fixed;
+    height: 100%;
+    top: 0;
+    left: 14rem;
+    bottom: 0;
+    width: 1rem;
     text-align: left;
   }
 }
@@ -86,6 +104,8 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
 }
 .sidebar-nav-item {
   display: block;
@@ -93,7 +113,9 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  color: #88B04B;
+  font-weight: bold;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
@@ -114,21 +136,40 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
 
+
+ .logo {
+   width: 100%;
+ }
+
+
+ @media (min-width: 48em) {
+   .logo-container {
+     margin: auto;
+     width: 36rem;
+   }
+ }
+
+ @media (min-width: 64em) {
+   .logo-container {
+     margin: auto;
+     width: 36rem;
+   }
+ }
+
+
 .content {
-  padding-top:    4rem;
+  padding-top:    2rem;
   padding-bottom: 4rem;
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
