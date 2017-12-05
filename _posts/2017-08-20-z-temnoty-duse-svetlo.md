@@ -4,7 +4,7 @@ title: Z temnoty duše světlo
 amount: 100,000
 currency: CZK
 description: Tvorba dokumentárního filmu
-url: https://www.ztemnotydusesvetlo.com
+project_url: https://www.ztemnotydusesvetlo.com
 logo: /public/images/z_temnoty_duse_svetlo_logo.jpg
 ---
 

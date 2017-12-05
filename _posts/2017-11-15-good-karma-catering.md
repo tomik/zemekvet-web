@@ -4,7 +4,7 @@ title: Good Karma catering
 amount: 30,000
 currency: CZK
 description: Příspěvek na sebezvdělávání
-url: https://www.facebook.com/Good-Karma-Catering-1538589379697149
+project_url: https://www.facebook.com/Good-Karma-Catering-1538589379697149
 logo: /public/images/good_karma_catering_logo.jpg
 ---
 

@@ -137,11 +137,20 @@ h1, h2, h3, h4, h5 {
   display: block;
   line-height: 1.75;
 }
+
+.post-title > .green-link {
+  text-decoration: none;
+  color: #313131;
+}
+
+.post-title > .green-link:hover,
+.post-title > .green-link:focus,
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   color: #88B04B;
   text-decoration: none;
 }
+
 .sidebar-nav-item.active {
   font-weight: bold;
 }
@@ -249,6 +258,14 @@ a.sidebar-nav-item:focus {
      margin-top: 2rem;
      margin-bottom: 2rem;
    }
+
+   /*.project-logo {
+     border: 5px solid #fff;
+   }
+
+    .project-logo:hover {
+      border: 5px solid #88B04B;
+    }*/
 
    .project-preview {
      width: 24rem;
