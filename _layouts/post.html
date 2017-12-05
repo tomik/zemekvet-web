@@ -4,6 +4,17 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span class="post-date">{{ page.date | date_to_string }}
+  <div>
+    <span class="brown-text-color"> {{ page.amount }} {{ page.currency }} </span>
+    <span class="green-text-color"> {{ page.description }}
+    </span>
+
+    </div>
+  </span>
+
+  <img class="project-logo" src="{{page.logo}}"/>
   {{ content }}
+</div>
+
 </div>

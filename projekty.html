@@ -3,16 +3,18 @@ layout: default
 title: Blog
 ---
 
-<div class="posts" style="margin-bottom: 3rem;">
+<div class="project-previews" style="margin-bottom: 3rem;">
   {% for post in site.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    {{ post.content }}
+  <div class="project-preview">
+    <a href="{{ post.url }}">
+    <h2 class="project-title"> {{ post.title }} </h2>
+    <p>
+     <span class="brown-text-color"> {{ post.amount }} {{ post.currency }} </span>
+     <span class="green-text-color"> {{ post.description }}
+     </span>
+   </p>
+    <img class="project-logo-small" src="{{ post.logo }}"/>
+    </a>
   </div>
   {% endfor %}
 </div>

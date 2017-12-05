@@ -51,6 +51,14 @@ h1, h2, h3, h4, h5 {
   font-family: "Gotham-Rounded";
 }
 
+.brown-text-color {
+   color: #60373D;
+}
+
+.green-text-color {
+   color: #88B04B;
+}
+
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -68,6 +76,7 @@ h1, h2, h3, h4, h5 {
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
+
 
 .sidebar {
   text-align: center;
@@ -197,6 +206,55 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
+
+/*
+ * Projects
+ */
+
+ .project-logo-small {
+   width: 12rem;
+ }
+
+ .project-preview {
+   padding: 10px;
+   margin: auto;
+   margin-top: 2rem;
+   margin-bottom: 5rem;
+   width: 12rem;
+   border: 5px solid #fff;
+   border-bottom: 5px solid #60373D;
+ }
+
+ .project-preview:hover {
+   border: 5px solid #88B04B;
+   border-bottom: 5px solid #60373D;
+ }
+
+ .project-preview > a {
+   text-decoration: none;
+   border: 1px solid #fff;
+}
+
+ .project-preview > a:hover {
+   text-decoration: none;
+ }
+
+ @media (min-width: 48em) {
+   .project-logo-small {
+     width: 24rem;
+   }
+
+   .project-logo {
+     margin-top: 2rem;
+     margin-bottom: 2rem;
+   }
+
+   .project-preview {
+     width: 24rem;
+   }
+ }
+
+
 
 
 /*

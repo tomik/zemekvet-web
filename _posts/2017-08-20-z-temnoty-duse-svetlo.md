@@ -3,8 +3,9 @@ layout: post
 title: Z temnoty duše světlo
 amount: 100,000
 currency: CZK
-purpose: Tvorba dokumentárního filmu
+description: Tvorba dokumentárního filmu
 url: https://www.ztemnotydusesvetlo.com
+logo: /public/images/z_temnoty_duse_svetlo_logo.jpg
 ---
 
 Dokumentární film Z temonty duše ... světlo režiséra Viliama Poltikoviče byl vytvořen na zakázku pro Opavské Mezinárodní transpersonální centrum Holos.
