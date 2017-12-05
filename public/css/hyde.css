@@ -245,6 +245,7 @@ a.sidebar-nav-item:focus {
    }
 
    .project-logo {
+     margin: auto;
      margin-top: 2rem;
      margin-bottom: 2rem;
    }
