@@ -15,4 +15,5 @@ kreativní, umělecké a dokumentární projekty
 
 ## Žádost o podporu
 
-Pokud máte zajímavý projekt, který splňuje předchozí kritéria, tak nás můžete <a href="/kontakt">kontaktovat</a> se žádostí o podporu na našem emailu.
+
+Momentálně si projekty k podpoře vybíráme sami, aktivním hledáním, skrze informace od přátel, sledováním kampaní na crowdfundingových portálech, apod. Pokud ale víte o zajímavém projektu, který splňuje předchozí kritéria a podporu by potřeboval, tak nám o něm napište na náš <a href="/kontakt">email</a> a my se na něj podíváme a případně ho zařadíme mezi možné kandidáty.
