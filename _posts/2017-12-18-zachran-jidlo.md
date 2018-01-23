@@ -1,0 +1,17 @@
+---
+layout: post
+title: Zachraň jídlo
+amount: 200,000
+currency: CZK
+description: Příspěvek na rozšíření aktivit
+project_url: http://zachranjidlo.cz
+logo: /public/images/zachran_jidlo_logo.jpg
+---
+
+Zachraň jídlo je nezisková organizace, která se od roku 2013 věnuje problému plýtvání potravinami hlavně v Praze a Středočeském kraji. Plýtvání jídlem a potažmo přírodními zdroji obecně je jeden z méně viditelných problémů naší doby. Ale jeho uvědomnění si nás může jako společnost posunout k harmoničtější existenci s naším okolím. Málokdo z nás v supermarketu plném svěže vypadající zeleniny a ovoce přemýšlí, co se za tímto vrcholkem ledovce skrývá. Kolik potravin zůstane na poli, protože se nevyplatí je sklidit, kolik potravin se do supermarketů vůbec nedostane, protože neprojdou estetickými normami, kolik potravin se posléze vyhodí i když jsou stále dobře použitelné, kolik nás v nepřímých důsledcích stojí "ždímaní země" za většími výnosy, apod.
+
+Zachraň jídlo se těmito otázkami zabývá. A nejen na papíře, ale hlavně v praxi. Na poli, kde sbírají zeleninu, která vyrostla, ale není o ni zájem. V komunikaci a kooperaci s potravinovými bankami, kam často výnosy z paběrkování míří. Na happeningových akcích, kde vaří výborná jídla z "vyřazených potravin". Na Facebooku, kde vedou kampaně v osvětě o tom, jak je produkce potravin náročná a proč bychom s nimi měli nakládat zodpovědně.
+
+Je radost pozorovat takovouto iniciativu, obzvlášť když je vedena s nadšením a s kreativitou. Zachraň jídlo vnáší svěží vítr do zaběhaných a ustrnutých procesů v potravinářském průmyslu a zatím se jim daří.
+
+Příspěvek je poskytnut za účelem rozšíření aktivit projektu. 
