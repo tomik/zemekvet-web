@@ -8,7 +8,7 @@ project_url: https://www.ztemnotydusesvetlo.com
 logo: /public/images/z_temnoty_duse_svetlo_logo.jpg
 ---
 
-Dokumentární film Z temonty duše ... světlo režiséra Viliama Poltikoviče byl vytvořen na zakázku pro Opavské Mezinárodní transpersonální centrum Holos.
+Dokumentární film Z temnoty duše ... světlo režiséra Viliama Poltikoviče byl vytvořen na zakázku pro Opavské Mezinárodní transpersonální centrum Holos.
 
 Film se zabývá tématem tzv. psychospirituální krize. Jde o transformační proces harmonizace těla, mysli a ducha. Tento proces může mít často bouřlivý charakter a může být provázen jevy jako - silné vnímání energie proudící tělem, slyšení hlasů, vidění bytostí, pocity prázdnoty i všudypřítomnosti, opouštění fyzického těla, atd. Jde o proces, který je-li vědomě zpracován, má pro daného člověka silný léčebný efekt a výsledkem bývá, že lidé po něm žijí šťastnější a plnější život. Bohužel v naší společnosti tento proces často bývá zaměňován s psychózou a schizofreniíí a je s daným člověkem podle toho nakládáno - to jest léčí se psychofarmaky.
 
