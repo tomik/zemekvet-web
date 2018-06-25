@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Památky a příroda Karlovarska
-amount: 15,000
+amount: 30,000
 currency: CZK
 description: Příspěvek na provoz projektu
 project_url: http://www.pamatkyaprirodakarlovarska.cz
