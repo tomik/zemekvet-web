@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spolek pro dokumentaci a obnovu památek Karlovarska
-amount: 50,000
+amount: 150,000
 currency: CZK
 description: Příspěvek na obnovu památek
 project_url: http://dokumentacepamatek.cz
