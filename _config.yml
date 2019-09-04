@@ -10,7 +10,7 @@ plugins:          [jekyll-paginate, redcarpet, pygments.rb]
 # Setup
 title:            Zeměkvět
 tagline:          ''
-description:      'Ať naše země kvete.'
+description:      ''
 url:              http://www.zemekvet.cz
 baseurl:          /
 
@@ -28,6 +28,9 @@ github:
 
 support:
   url:            /podpora
+
+docs:
+  url:            /dokumenty
 
 projects:
   url:            /projekty
