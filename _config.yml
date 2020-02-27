@@ -26,20 +26,17 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-support:
+support_url:
   url:            /podpora
 
-docs:
+documents_url:
   url:            /dokumenty
 
-projects:
-  url:            /projekty
+projects_url:
+  url:            /prispevky
 
-contact:
+contact_url:
   url:            /kontakt
 
-logotypes:
+logotypes_url:
   url:            /logotypy
-
-akce:
-  url:            /

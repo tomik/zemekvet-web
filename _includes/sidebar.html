@@ -1,34 +1,26 @@
 <div class="sidebar">
   <div class="container sidebar">
     <div class="sidebar-about">
-
-
       <a href="/">
       <img style="width: 196px; margin: auto;"
             src="/public/images/zemekvet_logo_topdown_white.svg"></img>
       </a>
-
     </div>
 
     <nav class="sidebar-nav">
       <a class="regular-font sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">o nás</a>
 
-      <a class="rounded-font sidebar-nav-item{% if page.url == site.events.url %} active{% endif %}" href="{{ site.support.url }}">podpora</a>
+      <a class="rounded-font sidebar-nav-item{% if page.url == site.support_url.url %} active{% endif %}" href="{{ site.support_url.url }}">podpora</a>
 
-      <a class="regular-font sidebar-nav-item{% if page.url == site.events.url %} active{% endif %}" href="{{ site.projects.url }}">projekty</a>
 
-      <a class="regular-font sidebar-nav-item{% if page.url == site.docs.url %} active{% endif %}" href="{{ site.docs.url }}">dokumenty</a>
-<!--
-      <a class="sidebar-nav-item{% if page.url == site.blog.url %} active{% endif %}" href="{{ site.blog.url }}">Blog</a> -->
+      <a class="regular-font sidebar-nav-item{% if page.url == site.projects_url.url %} active{% endif %}" href="{{ site.projects_url.url }}">projekty</a>
 
-      <a class="rounded-font sidebar-nav-item{% if page.url == site.logotypes.url %} active{% endif %}" href="{{ site.logotypes.url }}">logotypy</a>
+      <a class="regular-font sidebar-nav-item{% if page.url == site.documents_url.url %} active{% endif %}" href="{{ site.documents_url.url }}">dokumenty</a>
 
-      <a class="regular-font sidebar-nav-item{% if page.url == site.blog.url %} active{% endif %}" href="{{ site.contact.url }}">kontakt</a>
+      <a class="rounded-font sidebar-nav-item{% if page.url == site.logotypes_url.url %} active{% endif %}" href="{{ site.logotypes_url.url }}">logotypy</a>
 
-      <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-    </nav> -->
-<!--
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+      <a class="regular-font sidebar-nav-item{% if page.url == site.contact_url.url %} active{% endif %}" href="{{ site.contact_url.url }}">kontakt</a>
+
   </div>
 </div>
 

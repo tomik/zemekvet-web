@@ -1,0 +1,46 @@
+---
+layout: default
+title: Blog
+---
+
+{% comment %}
+This kind of programming  makes me want to vmit.
+{% endcomment %}
+
+{% comment %}
+0 date
+1 title
+2 url
+3 logo
+4 amount
+5 currency
+6 description
+{% endcomment %}
+
+{% comment %}
+no spaces because of later string sorting :/
+{% endcomment %}
+
+{% capture contributions_string %}{% for post in site.posts %}{% for post_contribution in post.contributions %}{{post_contribution.date|date:"%Y-%m-%d"}}||{{post.title}}||{{post.url}}||{{post.logo}}||{{post_contribution.amount}}||{{post_contribution.currency}}||{{post_contribution.description}}{% if forloop.last == false %}::{% endif%}{% else %}{{post.date|date:"%Y-%m-%d"}}||{{post.title}}||{{post.url}}||{{post.logo}}||{{post.amount}}||{{post.currency}}||{{post.description}}{% endfor %}{% if forloop.last == false %}::{% endif%}{% endfor %}
+{% endcapture %}
+
+{% assign contributions = contributions_string | split: '::'%}
+{% assign contributions_sorted = contributions | sort | reverse %}
+
+<div class="project-previews" style="margin-bottom: 3rem;">
+
+  {% for contribution_string in contributions_sorted %}
+  {% assign c = contribution_string | split: '||' %}
+  <div class="project-preview">
+    <a href="{{ c[2] }}">
+    <h2 class="project-title"> {{ c[1] }} </h2>
+    <p>
+     <span class="brown-text-color"> {{ c[0] }} {{ c[5] }} </span>
+     <span class="green-text-color"> {{ c[6] }}
+     </span>
+   </p>
+    <img class="project-logo-small" src="{{ c[3] }}"/>
+    </a>
+  </div>
+  {% endfor %}
+</div>
