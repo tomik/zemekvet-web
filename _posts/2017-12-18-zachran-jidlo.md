@@ -1,9 +1,19 @@
 ---
 layout: post
 title: Zachraň jídlo
-amount: 200,000
-currency: CZK
-description: Příspěvek na rozšíření aktivit
+contributions:
+  - amount: 200,000
+    currency: CZK
+    date: 2017-12-18
+    description: Příspěvek na provoz a rozšíření aktivit
+  - amount: 160,000
+    currency: CZK
+    date: 2019-01-24
+    description: Příspěvek na provoz a rozšíření aktivit
+  - amount: 250,000
+    currency: CZK
+    date: 2020-01-22
+    description: Příspěvek na provoz a rozšíření aktivit    
 project_url: http://zachranjidlo.cz
 logo: /public/images/zachran_jidlo_logo.jpg
 ---
@@ -13,5 +23,3 @@ Zachraň jídlo je nezisková organizace, která se od roku 2013 věnuje problé
 Zachraň jídlo se těmito otázkami zabývá. A nejen na papíře, ale hlavně v praxi. Na poli, kde sbírají zeleninu, která vyrostla, ale není o ni zájem. V komunikaci a kooperaci s potravinovými bankami, kam často výnosy z paběrkování míří. Na happeningových akcích, kde vaří výborná jídla z "vyřazených potravin". Na Facebooku, kde vedou kampaně v osvětě o tom, jak je produkce potravin náročná a proč bychom s nimi měli nakládat zodpovědně.
 
 Je radost pozorovat takovouto iniciativu, obzvlášť když je vedena s nadšením a s kreativitou. Zachraň jídlo vnáší svěží vítr do zaběhaných a ustrnutých procesů v potravinářském průmyslu a zatím se jim daří.
-
-Příspěvek je poskytnut za účelem rozšíření aktivit projektu. 

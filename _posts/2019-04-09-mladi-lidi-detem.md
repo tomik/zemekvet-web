@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Mladí ladí dětem
-amount: 80,000
-currency: CZK
-description: Příspěvek na pořádání události
+contributions:
+  - amount: 80,000
+    currency: CZK
+    date: 2019-04-09
+    description: Příspěvek na projekt Timbalooloo do škol
+  - amount: 120,000
+    currency: CZK
+    description: Příspěvek na projekt Timbalooloo do škol
+    date: 2020-01-22
 project_url: http://www.mladiladijazz.cz/detem
 logo: /public/images/mladi_ladi_detem.jpg
 ---

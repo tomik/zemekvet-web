@@ -1,9 +1,15 @@
 ---
 layout: post
 title: ZŠ Pod Montací
-amount: 200,000
-currency: CZK
-description: Příspěvek na vybavení prostor školy
+contributions:
+  - amount: 200,000
+    currency: CZK
+    date: 2018-05-22
+    description: Příspěvek na vybavení prostor školy
+  - amount: 100,000
+    currency: CZK
+    date: 2019-09-17
+    description: Příspěvek na vybavení prostor školy
 project_url: http://www.zspodmontaci.cz
 logo: /public/images/nachodsky_spolek_rodicu_logo.jpg
 ---
@@ -13,5 +19,3 @@ Výuka stojí ma třech hlavních pilířích. Výukovém programu Začít spolu
 
 Původně se jim to dařilo v rámci existující ZŠ v Náchodě, ale od školního roku
 2018/2019 se stěhují do vlastních prostor ZŠ Pod Montací.
-
-Příspěvek je poskytnut na vybavení prostor školy.

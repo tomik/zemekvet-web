@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Post Bellum
-amount: 80,000
-currency: CZK
-description: Příspěvek na projekt Paměti našich sousedů
+contributions:
+  - amount: 80,000
+    currency: CZK
+    date: 2019-02-12
+    description: Příspěvek na projekt Paměti našich sousedů
+  - amount: 120,000
+    currency: CZK
+    description: Příspěvek na projekt Paměti našich sousedů a Škola Paměti Národa
+    date: 2020-02-19
 project_url: https://www.postbellum.cz/co-delame/projekty/pribehy-nasich-sousedu/
 logo: /public/images/pribehy_nasich_sousedu_logo.jpg
 ---

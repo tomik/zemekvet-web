@@ -1,9 +1,20 @@
 ---
 layout: post
 title: Spolek pro dokumentaci a obnovu památek Karlovarska
-amount: 150,000
-currency: CZK
-description: Příspěvek na obnovu památek
+contributions:
+  - amount: 50,000
+    currency: CZK
+    date: 2017-10-11
+    description: Příspěvek na obnovu památek
+  - amount: 100,000
+    currency: CZK
+    date: 2018-06-26
+    description: Příspěvek na obnovu památek
+  - amount: 120,000
+    currency: CZK
+    date: 2019-08-12
+    description: Příspěvek na obnovu památek
+
 project_url: http://dokumentacepamatek.cz
 logo: /public/images/spolek_pro_dokumentaci_a_obnovu_pamatek_karlovarska_logo.jpg
 ---
