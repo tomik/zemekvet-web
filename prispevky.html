@@ -18,7 +18,7 @@ This kind of programming  makes me want to vmit.
 {% endcomment %}
 
 {% comment %}
-no spaces because of later string sorting :/
+No spaces because of later string sorting :/
 {% endcomment %}
 
 {% capture contributions_string %}{% for post in site.posts %}{% for post_contribution in post.contributions %}{{post_contribution.date|date:"%Y-%m-%d"}}||{{post.title}}||{{post.url}}||{{post.logo}}||{{post_contribution.amount}}||{{post_contribution.currency}}||{{post_contribution.description}}{% if forloop.last == false %}::{% endif%}{% else %}{{post.date|date:"%Y-%m-%d"}}||{{post.title}}||{{post.url}}||{{post.logo}}||{{post.amount}}||{{post.currency}}||{{post.description}}{% endfor %}{% if forloop.last == false %}::{% endif%}{% endfor %}
