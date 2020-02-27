@@ -32,8 +32,11 @@ support_url:
 documents_url:
   url:            /dokumenty
 
-projects_url:
+contributions_url:
   url:            /prispevky
+
+projects_url:
+  url:            /projekty
 
 contact_url:
   url:            /kontakt
