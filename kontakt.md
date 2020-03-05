@@ -17,7 +17,9 @@ var hostname = "zemekvet.cz";
 var full_email = username + "@" + hostname ;
 document.write(full_email);
 </script>
+<!--
 tel: 724848661
+-->
 
 IČO 06349854
 spolek je zapsaný u Krajského soudu v Hradci Králové
