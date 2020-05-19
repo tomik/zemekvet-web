@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     date: 2019-08-12
     description: Příspěvek na obnovu památek
+  - amount: 120,000
+    currency: CZK
+    date: 2020-03-25
+    description: Příspěvek na obnovu památek
 
 project_url: http://dokumentacepamatek.cz
 logo: /public/images/spolek_pro_dokumentaci_a_obnovu_pamatek_karlovarska_logo.jpg

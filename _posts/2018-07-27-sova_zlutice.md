@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Sova Žlutice
-amount: 160,000
-currency: CZK
-description: Příspěvek na rekonstrukci márnice ve Skocích
+contributions:
+  - amount: 160,000
+    currency: CZK
+    date: 2018-07-27
+    description: Příspěvek na rekonstrukci márnice ve Skocích
+  - amount: 120,000
+    currency: CZK
+    description: Příspěvek na rekonstrukci kaple a křížků
+    date: 2020-05-18
 project_url: http://www.sovazlutice.eu
 logo: /public/images/sova_zlutice.jpg
 ---

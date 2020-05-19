@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     description: Příspěvek na pořádání akcí pro děti
     date: 2020-01-28
+  - amount: 100,000
+    currency: CZK
+    description: Příspěvek na protiopatření pro dětské domovy spojená s covid-19
+    date: 2020-03-31
 currency: CZK
 description: Příspěvek na ceny pro děti
 project_url: http://www.tomasslavata.cz

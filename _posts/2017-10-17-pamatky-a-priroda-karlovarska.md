@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     date: 2019-08-12
     description: Příspěvek na provoz projektu
+  - amount: 30,000
+    currency: CZK
+    date: 2020-03-25
+    description: Příspěvek na provoz projektu
 project_url: http://www.pamatkyaprirodakarlovarska.cz
 logo: /public/images/pamatky_a_priroda_karlovarska_logo.jpg
 ---

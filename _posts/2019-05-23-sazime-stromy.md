@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sazime stromy
+title: Sázíme stromy
 contributions:
   - amount: 160,000
     currency: CZK
