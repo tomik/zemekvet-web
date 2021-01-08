@@ -16,4 +16,4 @@ title: ""
 ## Žádost o podporu
 
 
-Momentálně si projekty k podpoře vybíráme sami, aktivním hledáním, skrze informace od přátel, sledováním kampaní na crowdfundingových portálech, apod. Pokud ale víte o zajímavém projektu (ideálně ne vašem vlastním ale někoho jiného), který splňuje předchozí kritéria a podporu by potřeboval, tak nám o něm napište na náš <a href="/kontakt">email</a> a my se na něj podíváme. Je ale dobře možné, že žádost zamítneme, s odůvodněním, že nás projekt neoslovil, děkujeme za pochopení.
+Pokud víte o zajímavém projektu, který splňuje předchozí kritéria a podporu by potřeboval, tak nám o něm napište na náš <a href="/kontakt">email</a>.
