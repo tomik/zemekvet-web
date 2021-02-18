@@ -19,10 +19,32 @@ Používáte-li logo Zeměkvětu na svých webových stránkách, tak bychom oce
 
 Pokud máte speciální požadavky anebo potíže s použitím loga, tak nás prosím <a href="/kontakt"> kontaktujte</a>.
 
-<img style="margin: auto; width: 480px;"  
+<p>
+Loga ve formátu <strong> SVG </strong>
+</p>
+
+<img style="width: 270px; float: left;  "  
 src="/public/images/zemekvet_logo_topdown_green_brown.svg"/>
 
-<img style="margin: auto; width: 480px;" src="/public/images/zemekvet_logo_topdown_black.svg"/>
 
-<img style="margin: auto; width: 480px; background-color: black;"   
+<img style="width: 270px; float:left;" src="/public/images/zemekvet_logo_topdown_black.svg"/>
+
+<img style="width: 270px; background-color: slateGray;"   
 src="/public/images/zemekvet_logo_topdown_white.svg"/>
+
+<div style="clear:both;"/>
+
+<p>
+Loga ve formátu <strong> PNG </strong>
+</p>
+
+<img style="width: 270px; float:left;"  
+src="/public/images/zemekvet_logo_topdown_green_brown.png"/>
+
+<img style="width: 270px; float:left;" src="/public/images/zemekvet_logo_topdown_black.png"/>
+
+<img style="width: 270px; background-color: slateGray;"   
+src="/public/images/zemekvet_logo_topdown_white.png"/>
+
+
+<div style="clear:both;"/>
