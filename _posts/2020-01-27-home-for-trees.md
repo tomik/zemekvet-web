@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Home for trees
-amount: 200,000
-currency: CZK
-description: Příspěvek na aktivity spolku
+contributions:
+- amount: 200,000
+  currency: CZK
+  description: Příspěvek na aktivity spolku
+  date: 2020-01-27
+- amount: 200,000
+  currency: CZK
+  description: Příspěvek na aktivity spolku
+  date: 2021-02-15
 project_url: http://www.homefortrees.com
 logo: /public/images/home_for_trees_logo.jpg
 ---

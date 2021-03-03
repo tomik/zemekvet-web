@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     description: Příspěvek na provoz
     date: 2020-02-20
+  - amount: 200,000
+    currency: CZK
+    description: Příspěvek na provoz
+    date: 2021-02-08
 project_url: http://www.socialniklinika.cz
 logo: /public/images/socialni_klinika_logo.jpg
 ---

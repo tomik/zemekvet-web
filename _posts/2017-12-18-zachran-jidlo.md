@@ -13,7 +13,11 @@ contributions:
   - amount: 250,000
     currency: CZK
     date: 2020-01-22
-    description: Příspěvek na provoz a rozšíření aktivit    
+    description: Příspěvek na provoz a rozšíření aktivit
+  - amount: 200,000
+    currency: CZK
+    date: 2021-02-10
+    description: Příspěvek na provoz a rozšíření aktivit      
 project_url: http://zachranjidlo.cz
 logo: /public/images/zachran_jidlo_logo.jpg
 ---
