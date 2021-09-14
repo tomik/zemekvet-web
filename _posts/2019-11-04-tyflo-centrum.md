@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Tyflo centrum
-amount: 120,000
-currency: CZK
-description: Příspěvek na provoz
+contributions:
+  - amount: 100,000
+    currency: CZK
+    date: 2019-11-04
+    description: Příspěvek na provoz
+  - amount: 200,000
+    currency: CZK
+    date: 2021-03-17
+    description: Příspěvek na provoz
 project_url: http://tyflocentrumusti.cz
 logo: /public/images/tyflo_centrum_usti_logo.jpg
 ---
