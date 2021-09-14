@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     description: Příspěvek na provoz a rozvoj aktivit
     date: 2020-01-28
+  - amount: 200,000
+    currency: CZK
+    description: Příspěvek na provoz a rozvoj aktivit
+    date: 2021-04-14
 project_url: http://www.sazimestromy.cz
 logo: /public/images/sazime_stromy_logo.jpg
 ---
