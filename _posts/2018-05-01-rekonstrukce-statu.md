@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     date: 2020-01-23
     description: Příspěvek na provoz a rozšíření aktivit
+  - amount: 250,000
+    currency: CZK
+    date: 2021-04-06
+    description: Příspěvek na provoz a rozšíření aktivit
 project_url: http://www.rekonstrukcestatu.cz
 logo: /public/images/rekonstrukce_statu_logo.jpg
 ---
