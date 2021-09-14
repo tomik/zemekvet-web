@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     date: 2019-09-17
     description: Příspěvek na vybavení prostor školy
+  - amount: 120,000
+    currency: CZK
+    date: 2021-03-05
+    description: Příspěvek na vybavení prostor školy
 project_url: http://www.zspodmontaci.cz
 logo: /public/images/nachodsky_spolek_rodicu_logo.jpg
 ---
