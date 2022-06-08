@@ -1,9 +1,16 @@
 ---
 layout: post
 title: MŠ Zemička
-amount: 300,000
-currency: CZK
-description: Příspěvek na výstavbu zázemí MŠ
+contributions:
+  - amount: 300,000
+    currency: CZK
+    description: Příspěvek na výstavbu zázemí MŠ
+    date: 2021-09-01
+  - amount: 3,200,000
+    currency: CZK
+    description: Příspěvek na výstavbu zázemí MŠ
+    date: 2022-03-01
+
 project_url: http://www.zemicka.cz
 logo: /public/images/zemicka_logo.jpg
 ---
