@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nesedím,sousedím 
+title: Nesedím, sousedím 
 amount: 100,000
 currency: CZK
 description: Příspěvek na provoz a další rozvoj spolku
