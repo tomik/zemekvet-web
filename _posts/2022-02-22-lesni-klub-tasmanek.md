@@ -3,7 +3,7 @@ layout: post
 title: Lesní klub Tasmánek
 amount: 250,000
 currency: CZK
-description: Příspěvek na zajištění zázemí pro environmentální výchovu dětí v rámci aktivit lesního klubu Tasmánek v podhůří Orlických hor
+description: Příspěvek na zajištění zázemí pro environmentální výchovu dětí 
 project_url: https://tasmanek.cz
 logo: /public/images/tasmanek_logo.jpg
 ---
