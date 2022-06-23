@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Svobodná škola Chotěboř
-amount: 200,000
-currency: CZK
-description: Příspěvek na rekonstrukci objektu školy
+contributions:
+  - amount: 200,000
+    currency: CZK
+    date: 2021-05-20
+    description: Příspěvek na rekonstrukci objektu školy
+  - amount: 200,000
+    currency: CZK
+    date: 2022-06-06
+    description: Příspěvek na pořízení materiálu a stavebních prací pro dokončení vytápění objektu školy
 project_url: https://www.svobodnaskolachotebor.cz
 logo: /public/images/sprsv_logo.jpg
 ---
