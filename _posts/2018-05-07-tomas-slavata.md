@@ -30,7 +30,10 @@ contributions:
     currency:
     description: Příspěvek na protiopatření pro dětské domovy spojená s covid-19
     date: 2021-05-31
-
+  - amount: 200,000
+    currency:
+    description: Příspěvek na pořádání akcí pro děti
+    date: 2022-05-16
 project_url: http://www.tomasslavata.cz
 logo: /public/images/tomas_slavata_logo.jpg
 ---
