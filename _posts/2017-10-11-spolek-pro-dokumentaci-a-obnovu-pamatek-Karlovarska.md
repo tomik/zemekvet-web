@@ -20,7 +20,7 @@ contributions:
     description: Příspěvek na obnovu památek
   - amount: 120,000
     currency: CZK
-    date: 2020-05-05
+    date: 2022-05-05
     description: Příspěvek na obnovu památek
     
 project_url: http://dokumentacepamatek.cz
