@@ -3,7 +3,7 @@ layout: post
 title: Škola Lokahi
 amount: 500,000
 currency: CZK
-description: Příspěvek na na rekonstrukci objektu školy 
+description: Příspěvek na rekonstrukci objektu školy 
 project_url: https://www.skolalokahi.cz/
 logo: /public/images/skola_lokahi_logo.jpg
 ---
