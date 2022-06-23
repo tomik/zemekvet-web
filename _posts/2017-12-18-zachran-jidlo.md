@@ -17,7 +17,11 @@ contributions:
   - amount: 200,000
     currency: CZK
     date: 2021-02-10
-    description: Příspěvek na provoz a rozšíření aktivit      
+    description: Příspěvek na provoz a rozšíření aktivit
+  - amount: 300,000
+    currency: CZK
+    date: 2021-05-05
+    description: Příspěvek na podpora projektů zabývajících se osvětou veřejnosti za účelem snížení plýtvání potravin a rozvoj projektu Oběd v nouzi
 project_url: http://zachranjidlo.cz
 logo: /public/images/zachran_jidlo_logo.jpg
 ---
