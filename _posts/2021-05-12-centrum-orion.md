@@ -1,9 +1,15 @@
 ---
 layout: post
-title: Centrum orion
-amount: 60,000
-currency: CZK
-description: Příspěvek na konání letního pobytu
+title: Centrum Orion
+contributions:
+  - amount: 60,000
+    currency: CZK
+    date: 2021-05-12
+    description: Příspěvek na provoz
+  - amount: 80,000
+    currency: CZK
+    date: 2022-02-03
+    description: Příspěvek na konání letního pobytu
 project_url: http://centrum-orion.cz
 logo: /public/images/centrum_orion_logo.jpg
 ---
