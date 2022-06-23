@@ -4,7 +4,7 @@ title: Škola Lokahi
 amount: 500,000
 currency: CZK
 description: Příspěvek na na rekonstrukci objektu školy 
-project_url: https://www.postbellum.cz/2022/02/vyhlasujeme-sbirku-na-pomoc-ukrajine/
+project_url: https://www.skolalokahi.cz/
 logo: /public/images/skola_lokahi_logo.jpg
 ---
 
