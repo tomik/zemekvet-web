@@ -9,7 +9,7 @@ contributions:
   - amount: 3,200,000
     currency: CZK
     description: Příspěvek na výstavbu zázemí MŠ
-    date: 2022-13-01
+    date: 2022-01-31
 
 project_url: http://www.zemicka.cz
 logo: /public/images/zemicka_logo.jpg
