@@ -21,7 +21,7 @@ contributions:
   - amount: 300,000
     currency: CZK
     date: 2022-05-05
-    description: Příspěvek na podpora projektů zabývajících se osvětou veřejnosti za účelem snížení plýtvání potravin a rozvoj projektu Oběd v nouzi
+    description: Příspěvek na podporu projektů zabývajících se osvětou veřejnosti za účelem snížení plýtvání potravin a rozvoj projektu Oběd v nouzi
 project_url: http://zachranjidlo.cz
 logo: /public/images/zachran_jidlo_logo.jpg
 ---
@@ -30,4 +30,4 @@ Zachraň jídlo je nezisková organizace, která se od roku 2013 věnuje problé
 
 Zachraň jídlo se těmito otázkami zabývá. A nejen na papíře, ale hlavně v praxi. Na poli, kde sbírají zeleninu, která vyrostla, ale není o ni zájem. V komunikaci a kooperaci s potravinovými bankami, kam často výnosy z paběrkování míří. Na happeningových akcích, kde vaří výborná jídla z "vyřazených potravin". Na Facebooku, kde vedou kampaně v osvětě o tom, jak je produkce potravin náročná a proč bychom s nimi měli nakládat zodpovědně.
 
-Je radost pozorovat takovouto iniciativu, obzvlášť když je vedena s nadšením a s kreativitou. Zachraň jídlo vnáší svěží vítr do zaběhaných a ustrnutých procesů v potravinářském průmyslu a zatím se jim daří.
+
