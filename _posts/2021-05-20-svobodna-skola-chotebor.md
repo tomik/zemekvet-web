@@ -9,7 +9,7 @@ contributions:
   - amount: 200,000
     currency: CZK
     date: 2022-06-06
-    description: Příspěvek na pořízení materiálu a stavebních prací pro dokončení vytápění objektu školy
+    description: Příspěvek na pořízení materiálu / stavebních prací pro dokončení vytápění objektu školy
 project_url: https://www.svobodnaskolachotebor.cz
 logo: /public/images/sprsv_logo.jpg
 ---
