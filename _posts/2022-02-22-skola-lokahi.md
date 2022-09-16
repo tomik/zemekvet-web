@@ -1,8 +1,15 @@
 ---
 layout: post
 title: Škola Lokahi
-amount: 500,000
-currency: CZK
+contributions:
+  - amount: 500,000
+    currency: CZK
+    date: 2022-02-22
+    description: Příspěvek na provoz
+  - amount: 500,000
+    currency: CZK
+    description: Příspěvek na provoz
+    date: 2022-09-14
 description: Příspěvek na rekonstrukci objektu školy 
 project_url: https://www.skolalokahi.cz/
 logo: /public/images/skola_lokahi_logo.jpg
