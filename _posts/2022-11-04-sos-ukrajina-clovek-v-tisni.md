@@ -8,11 +8,13 @@ project_url: https://www.clovekvtisni.cz/co-delame/humanitarni-a-rozvojova-pomoc
 logo: /public/images/sos_ukrajina_logo.JPG
 ---
 
-Dne 24. února 2022 začala válka na Ukrajině. Rusko zaútočilo na klíčová ukrajinská města na severu, východě a jihu země. Miliony lidí uprchly ze svých domovů na západní Ukrajinu nebo do sousedících zemí, tisíce civilistů byly zabity. Ruská invaze vyústila v obrovskou humanitární krizi a mohutnou uprchlickou vlnu. 
+Dne 24. února 2022 začala válka na Ukrajině. Rusko zaútočilo na klíčová ukrajinská města na severu, východě a jihu země. Miliony lidí uprchly ze svých domovů na západní Ukrajinu nebo do sousedních zemí, tisíce civilistů byly zabity. Ruská invaze vyústila v obrovskou humanitární krizi a mohutnou uprchlickou vlnu.
 
-Ihned po začátku invaze začala organizace Člověk v tísni poskytovat humanitární pomoc na celém ukrajinském území a pomáhat uprchlíkům, kteří po desetitisících přicházeli do České republiky.
+Ihned po začátku invaze začala organizace Člověk v tísni poskytovat humanitární pomoc na ukrajinském území a pomáhat uprchlíkům, kteří po desetitisících přicházeli do České republiky.
 
-V současnosné době působí organizace Člověk v tísni na západě i východě Ukrajiny, kam posílají vlaky a kamiony s humanitární pomocí. Do obcí kolem frontové linie dodává tisíce litrů pitné vody, pomáhá lidem připravit se na zimu, opravit domy nebo vodovodní systémy. Celkově už na Ukrajině od začátku ruské invaze pomohl více než půl milionu lidí. 
+V současné době působí organizace Člověk v tísni na západě i východě Ukrajiny. Do obcí kolem frontové linie dodává tisíce litrů pitné vody, pomáhá lidem připravit se na zimu, opravit domy nebo vodovodní systémy. Celkově už na Ukrajině od začátku ruské invaze pomohl více než půl milionu lidí.
+
+Autorka fotografie: Alyona Budagovska
 
 
 
