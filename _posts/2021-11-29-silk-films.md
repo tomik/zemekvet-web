@@ -3,7 +3,7 @@ layout: post
 title: Silk Films - film Miko
 amount: 150,000
 currency: CZK
-description: Příspěvek na vznik filmu More Miko
+description: Příspěvek na vznik filmu Miko
 project_url: http://www.silkfilms.cz/#MIKO
 logo: /public/images/more_miko_logo.jpg
 ---
