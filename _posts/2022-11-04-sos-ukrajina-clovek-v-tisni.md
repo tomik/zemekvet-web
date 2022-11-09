@@ -3,7 +3,7 @@ layout: post
 title: Člověk v tísni - SOS Ukrajina
 amount: 2,500,000
 currency: CZK
-description: Příspěvek na pokrytí provozních nákladů 
+description: Příspěvek na pomoc obětem konfliktu na Ukrajině
 project_url: https://www.clovekvtisni.cz/co-delame/humanitarni-a-rozvojova-pomoc/ukrajina 
 logo: /public/images/sos_ukrajina_logo.JPG
 ---
