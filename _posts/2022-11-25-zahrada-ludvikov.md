@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ekoloko
+title: Zahrada Ludvíkov
 amount: 160,000
 currency: CZK
 description: Příspěvek na pokrytí nákladů spojených s koupí maringotek pro hipocentrum
