@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Brno tiskne
-amount: 150,000
-currency: CZK
-description: Příspěvek na provoz
+contributions:
+  - amount: 150,000
+    currency: CZK
+    date: 2021-10-06
+    description: Příspěvek na provoz 
+  - amount: 50,000
+    currency: CZK
+    date: 2022-12-01
+    description: Příspěvek na náklady spojené se školením lektorů sítotisku
 project_url: https://www.brnotiskne.cz
 logo: /public/images/brno_tiskne_logo.jpg
 ---
