@@ -8,6 +8,6 @@ project_url: https://www.waldorfliberec.cz/
 logo: /public/images/waldorfska_iniciativa_logo.jpg
 ---
 
-Waldorfská iniciativa Liberec je spolkem dlouhodobě se zabývajícím podporou tzv. Waldorfských tříd a rozvojem waldorfské pedagogiky v Libereckém kraji.
+Waldorfská iniciativa Liberec je spolkem dlouhodobě se zabývajícím podporou tzv. Waldorfských tříd a rozvojem waldorfské pedagogiky v Libereckém kraji
 
 Příspěvek na zařízení dílny pro dřevořezbu a modelování
