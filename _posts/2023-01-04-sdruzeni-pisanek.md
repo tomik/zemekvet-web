@@ -8,4 +8,5 @@ project_url: https://pisanek.wixsite.com/pisanek
 logo: /public/images/pisanek_logo.jpg
 ---
 
-Sdružení Píšánek dlouhodobě sdružuje dobrovolníky, kteří pomáhají opuštěným, týraným kočičkám najít domov
+Sdružení Píšánek dlouhodobě sdružuje dobrovolníky, kteří pomáhají opuštěným, týraným kočičkám najít domov.
+
