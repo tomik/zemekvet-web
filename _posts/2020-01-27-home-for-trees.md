@@ -14,6 +14,10 @@ contributions:
   currency: CZK
   description: Příspěvek na aktivity spolku a výsadbu nových stromů
   date: 2022-02-21
+- amount: 200,000
+  currency: CZK
+  description: Příspěvek na aktivity spolku a výsadbu nových stromů
+  date: 2023-01-16
 project_url: http://www.homefortrees.com
 logo: /public/images/home_for_trees_logo.jpg
 ---
