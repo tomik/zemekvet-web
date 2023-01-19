@@ -22,6 +22,10 @@ contributions:
     currency: CZK
     date: 2022-05-05
     description: Příspěvek na podporu projektů zabývajících se osvětou veřejnosti za účelem snížení plýtvání potravin a rozvoj projektu Oběd v nouzi
+  - amount: 300,000
+    currency: CZK
+    date: 2023-01-19
+    description: Příspěvek na provoz a rozšíření aktivit - organizace osvětových akcí pro veřejnost, pravidelné informování veřejnosti o dění v oblasti plýtvání potravinami, síťování (propojování subjektů), a jiné
 project_url: http://zachranjidlo.cz
 logo: /public/images/zachran_jidlo_logo.jpg
 ---
