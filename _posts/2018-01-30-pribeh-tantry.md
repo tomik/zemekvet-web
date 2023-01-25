@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pribeh Tantry
+title: Příběh Tantry
 amount: 150,000
 currency: CZK
 description: Tvorba dokumentárního filmu
