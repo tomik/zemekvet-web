@@ -22,6 +22,10 @@ contributions:
     currency: CZK
     description: Příspěvek na provoz
     date: 2022-01-27
+  - amount: 300,000
+    currency: CZK
+    description: Příspěvek na provoz
+    date: 2023-01-25
 project_url: http://www.socialniklinika.cz
 logo: /public/images/socialni_klinika_logo.jpg
 ---
