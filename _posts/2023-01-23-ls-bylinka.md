@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Lesní školka Bylinka
-amount: 200,000
+title: Mnichovickou krajinou
+amount: 50,000
 currency: CZK
-description: Příspěvek na nákup jurty a náklady s tím spojené
-project_url: https://www.facebook.com/groups/39944038534/user/100083746612751/ 
+description: Příspěvek na spojené s péčí o krajinu
+project_url: https://www.mnichovickoukrajinou.cz/
 logo: /public/images/bylinka_logo.jpeg
 ---
 
-Lesní školka Bylinka bude v Mutěnicích u Hodonína od září 2023 provozovat v každodenním provozu lesní školku jako alternativu k předškolnímu vzdělávání. Děti budou trávit čas především ve venkovním prostředí. Budou zde pořádány workshopy a promítání dokumentů pro širší veřejnost. 
+Spolek Mnichovickou krajinou se dlouhodobě zabývá ochranou přírody a revitalizací krajiny v okolí Mnichovic u Říčan, jako například: záchranou obojživelníků, sečení luk za účelem zvýšení biodiversity a podpory ustoupených vzácných druhů rostlin, péčí o lesní holinu v Podhorkách, údržbou tůní, obnovou mokřadu u Myšlínského potoka. Dále pořádá vzdělávací akce, naučné vycházky a přednášky na tato témata pro širokou veřejnost
