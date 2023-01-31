@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     date: 2022-01-31
     description: Příspěvek na provoz
+  - amount: 200,000
+    currency: CZK
+    date: 2023-01-31
+    description: Příspěvek na provoz
 project_url: http://tyflocentrumusti.cz
 logo: /public/images/tyflo_centrum_usti_logo.jpg
 ---
