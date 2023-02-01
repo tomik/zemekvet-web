@@ -13,11 +13,15 @@ contributions:
   - amount: 120,000
     currency: CZK
     date: 2021-03-05
+    description: Příspěvek na vybavení prostor školy a na náklady spojené s jejím provozem
+  - amount: 120,000
+    currency: CZK
+    date: 2022-02-28  
     description: Příspěvek na vybavení prostor školy
   - amount: 120,000
     currency: CZK
-    date: 2022-02-28
-    description: Příspěvek na vybavení učeben školy
+    date: 2023-02-01
+    description: Příspěvek na náklady spojené s provozem školy
 project_url: http://www.zspodmontaci.cz
 logo: /public/images/nachodsky_spolek_rodicu_logo.jpg
 ---
@@ -25,5 +29,4 @@ V Náchodě rodiče několika dětí jdoucích do první třídy nebyly spokojen
 
 Výuka stojí ma třech hlavních pilířích. Výukovém programu Začít spolu, slovním hodnocení a Hejného matematice. Je to škola, kde jsou rodiče vítáni. Společným cílem celého spolku jsou spokojené děti, pěkné vztahy a učení, které má smysl a výsledky.
 
-Původně se jim to dařilo v rámci existující ZŠ v Náchodě, ale od školního roku
-2018/2019 se stěhují do vlastních prostor ZŠ Pod Montací.
+Původně se jim to dařilo v rámci existující ZŠ v Náchodě, ale od školního roku 2018/2019 se stěhovali do vlastních prostor.
