@@ -1,0 +1,11 @@
+---
+layout: post
+title: Komunitní centrum Zahrádka
+amount: 120,000
+currency: CZK
+description: Příspěvek na náklady spojené s pořízením vybavení pro spolek
+project_url: https://www.facebook.com/profile.php?id=100084833089243
+logo: /public/images/kc-zahradka-logo.jpg
+---
+
+Kulturní centrum Zahrádka podporuje ženy s malými dětmi, kterým pomáhá s návratem na pracovní trh po mateřské dovolené; a dále vzděláváním osob bez ohledu na věk – podporuje individuální, mimoškolní, zájmové celoživotní vzdělávání. Příjemce se dále zabývá rozvojem a podporou kulturního dění v Ostravě.
