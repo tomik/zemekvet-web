@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Farmářská škola - mateřská a vyšší odborná škola
-amount: 750,000
-currency: CZK
-description: Příspěvek na náklady spojené s výstavbou zázemí farmy ekologického vzdělávání
+contributions:
+  - amount: 7500,000
+    currency: CZK
+    date: 2023-01-26
+    description: Příspěvek na náklady spojené s výstavbou zázemí farmy ekologického vzdělávání
+  - amount: 250,000
+    currency: CZK
+    date: 2023-03-29
+    description: Dodatečný příspěvek na náklady spojené s výstavbou zázemí farmy ekologického vzdělávání
 project_url: https://www.farmarskaskola.cz/
 logo: /public/images/farmarska_skola_logo.JPG
 ---
