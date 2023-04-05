@@ -36,8 +36,8 @@ No spaces because of later string sorting :/
     <h2 class="project-title"> {{ c[1] }} </h2>
     <div>
       <div>
-        <span class="post-date"> {{ c[0] }} </span>
-        <span class="brown-text-color"> {{ c[4] }} {{ c[5] }} </span>
+        <span class="post-date"> {{ c[0] | date: "%d.%m.%Y"}}: </span>
+        <span class="brown-text-color"> {{ c[4] | money_thousands_separator:" "}} {{ c[5] }} </span>
       </div>
      <span class="green-text-color"> {{ c[6] }}
      </span>

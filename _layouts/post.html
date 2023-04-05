@@ -21,19 +21,19 @@ layout: default
   <ul>
 {% for contribution in page.contributions %}
   <li>
-    <span>{{ contribution.date | date_to_string }}
-      <span class="brown-text-color"> {{ contribution.amount }} {{ contribution.currency }} </span>
+    <div>{{ contribution.date | date: "%d.%m.%Y" }}:
+      <span class="brown-text-color"> {{ contribution.amount | money_thousands_separator:" "}} {{ contribution.currency }} </span>
+    </div>
       <span class="green-text-color"> {{ contribution.description }}
       </span>
-    </span>
   </li>
 {% else %}
   <li>
-    <span>{{ page.date | date_to_string }}
-      <span class="brown-text-color"> {{ page.amount }} {{ page.currency }} </span>
+    <div>{{ page.date | date: "%d.%m.%Y" }}:
+      <span class="brown-text-color"> {{ page.amount | money_thousands_separator: " " }} {{ page.currency }} </span>
+    </div>
       <span class="green-text-color"> {{ page.description }}
       </span>
-    </span>
   </li>
 {% endfor %}
   </ul>
