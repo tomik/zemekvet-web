@@ -18,6 +18,10 @@ contributions:
     currency: CZK
     description: Příspěvek na projekt Timbalooloo do škol
     date: 2022-03-14
+  - amount: 180,000
+    currency: CZK
+    description: Příspěvek na projekt Timbalooloo do škol
+    date: 2023-04-13
 project_url: http://www.mladiladijazz.cz/detem
 logo: /public/images/mladi_ladi_detem.jpg
 ---
@@ -29,4 +33,4 @@ Oran Etkin za svou desku All About Bullies získal v roce 2012 americkou cenu Gr
 V letošním roce se rozběhne i projekt Timbalooloo do škol určený pro učitele a děti druhých ročníků ZŠ a je zaměřený na hudební alternativní vzdělávání. Lektor po dobu tří měsíců dochází jednou týdně do třídy, kde spolu s učitelem vede hodinu hudební výchovy za použití Timbalooloo metody Orana Etkina. Výsledek práce bude prezentován na konci školního roku formou představení.
 Metoda Timbalooloo napomáhá ke zdravému rozvoji vnímání a chápání okolního světa. Hudba je brána jako paralela k řeči. Často velmi abstraktní pojmy, které jsou pro děti těžko představitelné, jsou skrze hudební a tělesný prožitek lépe pochopitelné. Třída se před začátkem projektu zúčastní interaktivního workshopu Timbalooloo s Oranem Etkinem a jeho českou kapelou.
 
-Příspěvek z NF byl poskytnut na náklady spojené s uspořádáním letošního ročníku mladí ladí dětem.
+
