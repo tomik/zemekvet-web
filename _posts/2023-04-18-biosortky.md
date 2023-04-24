@@ -4,7 +4,7 @@ title: Biošortky
 amount: 200,000
 currency: CZK
 description: Příspěvek na náklady spojené s projektem Biošortky
-project_url: 
+project_url: https://www.aznkru.com/
 logo: /public/images/biosortky_logo.jpg
 ---
 
