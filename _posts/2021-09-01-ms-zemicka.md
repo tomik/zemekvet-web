@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     description: Příspěvek na výstavbu zázemí MŠ
     date: 2022-01-31
+  - amount: 800,000
+    currency: CZK
+    description: Příspěvek na výstavbu a dokončovací práce na objektu MŠ Zemička
+    date: 2023-05-15
 
 project_url: http://www.zemicka.cz
 logo: /public/images/zemicka_logo.jpg
