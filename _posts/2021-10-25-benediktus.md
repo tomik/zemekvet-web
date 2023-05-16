@@ -14,7 +14,7 @@ project_url: http://www.benediktus.org
 logo: /public/images/benediktus_logo.jpg
 ---
 
-Spolek nediktus je komunita lidí s mentálním postižením a bez něj, kteří žijí každodenní život ve vzájemném společenství. Komunita vytvořená příjemcem poskytuje sociální služby mentálně postiženým občanům (jako je např. chráněné bydlení, centrum denních služeb), vytváří chráněná pracovní místa a v neposlední řadě prostřednictvím svých aktivit napomáhá v udržení lokálního kulturního a duchovního dědictví. Předmětem projektu je obnova nevyužívaného domu, který projde kompletní rekonstrukcí. Cílem je vybudovat dům s pokoji chráněného bydlení, kde budou moci od podzimu 2024 bydlet 4 osoby s mentálním, případně kombinovaným, postižením.
+Spolek Benediktus je komunita lidí s mentálním postižením a bez něj, kteří žijí každodenní život ve vzájemném společenství. Komunita vytvořená příjemcem poskytuje sociální služby mentálně postiženým občanům (jako je např. chráněné bydlení, centrum denních služeb), vytváří chráněná pracovní místa a v neposlední řadě prostřednictvím svých aktivit napomáhá v udržení lokálního kulturního a duchovního dědictví. Předmětem projektu je obnova nevyužívaného domu, který projde kompletní rekonstrukcí. Cílem je vybudovat dům s pokoji chráněného bydlení, kde budou moci od podzimu 2024 bydlet 4 osoby s mentálním, případně kombinovaným, postižením.
 
 
 
