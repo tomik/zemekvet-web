@@ -10,7 +10,6 @@ contributions:
     currency: CZK
     description: Příspěvek na náklady spojené s provozními náklady a pořádáním festivalu
     date: 2023-04-26
-description: Příspěvek na náklady spojené s provozem vznikající komunitní dílny a re-use centra
 project_url: https://www.zauhlovacka.cz/
 logo: /public/images/zauhlovacka_logo.jpg
 ---
