@@ -1,13 +1,20 @@
 ---
 layout: post
 title: Benediktus
-amount: 300,000
-currency: CZK
-description: Příspěvek na rozvoj prostoru
+contributions:
+  - amount: 300,000
+    currency: CZK
+    description: Příspěvek na rozvoj prostoru
+    date: 2021-10-25
+  - amount: 300,000
+    currency: CZK
+    description: Příspěvek na náklady spojené s výstavbou Domu s pokoji chráněného bydlení Pekárna
+    date: 2023-05-16
 project_url: http://www.benediktus.org
 logo: /public/images/benediktus_logo.jpg
 ---
 
-Benediktus je komunita lidí s mentálním postižením a bez něj, kteří žijí každodenní život ve vzájemném společenství. Poskytují sociální služby, vytváří chráněná pracovní místa, obnovují místní kulturu a dědictví a dokonce mají vlastní kapelu.
+Spolek nediktus je komunita lidí s mentálním postižením a bez něj, kteří žijí každodenní život ve vzájemném společenství. Komunita vytvořená příjemcem poskytuje sociální služby mentálně postiženým občanům (jako je např. chráněné bydlení, centrum denních služeb), vytváří chráněná pracovní místa a v neposlední řadě prostřednictvím svých aktivit napomáhá v udržení lokálního kulturního a duchovního dědictví. Předmětem projektu je obnova nevyužívaného domu, který projde kompletní rekonstrukcí. Cílem je vybudovat dům s pokoji chráněného bydlení, kde budou moci od podzimu 2024 bydlet 4 osoby s mentálním, případně kombinovaným, postižením.
 
-Příspěvek byl poskytnut na několik menších projektů (např. výsadba sadu, zachytávání dešťové vody) v areálu Modletína v Železných horách, kde část komunity žije.
+
+
