@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vít Musílek - Ústecká hvězdárna
-amount: 120,000
+amount: 100,000
 currency: CZK
 description: Příspěvek na náklady spojené s rekonstrukcí hvězdárny
 project_url: https://www.facebook.com/ustecka.hvezdarna/ 
