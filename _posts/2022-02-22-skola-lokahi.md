@@ -9,12 +9,12 @@ contributions:
   - amount: 500,000
     currency: CZK
     description: Příspěvek na provoz
-    date: 2022-09-22
-description: Příspěvek na rekonstrukci objektu školy
+    date: 2022-09-14
+    description: Příspěvek na rekonstrukci objektu školy
   - amount: 180,000
     currency: CZK
     description: Příspěvek na rekonstrukci objektu školy
-    date: 2023-06-14
+    date: 2023-06-22
 description: Příspěvek na rekonstrukci objektu školy 
 project_url: https://www.skolalokahi.cz/
 logo: /public/images/skola_lokahi_logo.jpg
