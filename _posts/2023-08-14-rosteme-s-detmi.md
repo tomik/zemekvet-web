@@ -3,7 +3,7 @@ layout: post
 title: Rosteme s dětmi
 amount: 200,000
 currency: CZK
-description: Příspěvek na Náklady spojené s vybudováním zázemí a vybavením interiéru pro lesní klub
+description: Příspěvek na náklady spojené s vybudováním zázemí a vybavením interiéru pro lesní klub
 project_url: https://rostemesdetmi.cz 
 logo: /public/images/rosteme_s_detmi_logo.JPG
 ---
