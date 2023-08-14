@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Montessori školička CAMPANELLA
-amount: 200,000
-currency: CZK
-description: Příspěvek na vybavení prostor dětského centra
+contributions:
+  - amount: 200,000
+    currency: CZK
+    date: 2022-07-17
+    description: Příspěvek na vybavení prostor dětského centra
+  - amount: 120,000
+    currency: CZK
+    date: 2023-08-14
+    description: Příspěvek na náklady spojené s výmenou oken v sídle budovy spolku
 project_url: https://www.montessori-ceskytesin.cz/
 logo: /public/images/campanella_logo.jpg
 ---
