@@ -9,7 +9,7 @@ contributions:
   - amount: 120,000
     currency: CZK
     date: 2023-08-14
-    description: Příspěvek na náklady spojené s výmenou oken v sídle budovy spolku
+    description: Příspěvek na náklady spojené s výměnou oken v sídle budovy spolku
 project_url: https://www.montessori-ceskytesin.cz/
 logo: /public/images/campanella_logo.jpg
 ---
