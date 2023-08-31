@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frank Bold Kids - LK Madlánka
+title: Frank Bold Kids - LK Medlánka
 amount: 230,000
 currency: CZK
 description: Příspěvek na náklady spojené s vybudováním zázemí druhé lesní třídy LK Medlánka
