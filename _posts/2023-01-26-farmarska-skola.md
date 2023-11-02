@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     description: Dodatečný příspěvek na náklady spojené s výstavbou zázemí farmy ekologického vzdělávání
     date: 2023-03-29
+  - amount: 350,000
+    currency: CZK
+    description: Příspěvek do Fondu pro studenty a absoloveny
+    date: 2023-11-02
 project_url: https://www.farmarskaskola.cz/
 logo: /public/images/farmarska_skola_logo.JPG
 ---
