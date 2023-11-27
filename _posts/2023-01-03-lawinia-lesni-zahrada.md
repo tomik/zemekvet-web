@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Lesní zahrada 
-amount: 80,000
-currency: CZK
-description: Příspěvek na nákup vybanení a pomůcek pro pořádání environmentálních programů
+contributions:
+  - amount: 80,000
+    currency: CZK
+    date: 2023-01-03
+    description: Příspěvek na nákup vybanení a pomůcek pro pořádání environmentálních programů
+  - amount: 50,000
+    currency: CZK
+    description: Příspěvek na nákup vybanení a pomůcek na sazbu stromů, náklady spojené s environmentální výchovou
+    date: 2023-11-10
 project_url: http://hanazajicova.cz/lesni-zahrada/
 logo: /public/images/lawinia_logo.jpg
 ---
