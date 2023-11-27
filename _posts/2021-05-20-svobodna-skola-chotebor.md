@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     date: 2022-06-06
     description: Příspěvek na pořízení materiálu / stavebních prací pro dokončení vytápění objektu školy
+  - amount: 250,000
+    currency: CZK
+    date: 2023-11-16
+    description: Příspěvek na náklady spojené s provozem ZŠ Svobodné školy Chotěboř a lesním klubem Šalamounkův Dvoreček
 project_url: https://www.svobodnaskolachotebor.cz
 logo: /public/images/sprsv_logo.jpg
 ---
@@ -18,4 +22,3 @@ Svobodná škola Chotěboř je inovativní škola, která v údolí řeky Doubra
 
 Pro zázemí školy se postupně přestavuje bývalá stodola, nyní zbývá poslední třetina. Do budoucna je plán vybudovat repliku Horního mlýna a budovu školy, kde by bylo veškeré potřebné zázemí.
 
-Příspěvek byl poskytnut na rekonstrukci objektu školy v Chotěboři v Horním mlýně.
