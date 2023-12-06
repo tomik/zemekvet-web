@@ -1,0 +1,44 @@
+---
+layout: default
+title: Blog
+---
+
+{% comment %}
+This kind of programming  makes me want to vomit.
+{% endcomment %}
+
+{% comment %}
+0 date
+1 title
+2 url
+3 logo
+4 amount
+5 currency
+6 description
+{% endcomment %}
+
+{% comment %}
+No spaces because of later string sorting :/
+{% endcomment %}
+
+{% capture contributions_string %}{% for post in site.posts %}{% for post_contribution in post.contributions %}{{post_contribution.date|date:"%Y-%m-%d"}}||{{post.title}}||{{post.url}}||{{post.logo}}||{{post_contribution.amount}}||{{post_contribution.currency}}||{{post_contribution.description}}{% if forloop.last == false %}::{% endif%}{% else %}{{post.date|date:"%Y-%m-%d"}}||{{post.title}}||{{post.url}}||{{post.logo}}||{{post.amount}}||{{post.currency}}||{{post.description}}{% endfor %}{% if forloop.last == false %}::{% endif%}{% endfor %}
+{% endcapture %}
+
+{% assign contributions = contributions_string | split: '::'%}
+{% assign contributions_sorted = contributions | sort | reverse %}
+
+<div class="project-previews" style="margin-bottom: 3rem;">
+
+  {% for contribution_string in contributions_sorted %}
+  {% assign c = contribution_string | split: '||' %}
+  <div class="project-preview-text-only" style="margin-bottom: 1rem;">
+    <span class="post-date"> {{ c[0] | date: "%d.%m.%Y"}}: </span>
+    <a href="{{ c[2] }}">
+      <span class="project-title"> {{ c[1] }} </span>
+    </a>
+    <span class="brown-text-color"> {{ c[4] | money_thousands_separator:" "}} {{ c[5] }} </span>
+    <div><span class="green-text-color"> {{ c[6] }}
+     </span></div>
+  </div>
+  {% endfor %}
+</div>

@@ -18,6 +18,7 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
+safe:             true
 paginate:         5
 
 # Custom vars
@@ -34,6 +35,9 @@ documents_url:
 
 contributions_url:
   url:            /prispevky
+
+contributions_text_only_url:
+  url:            /prispevky_text_only
 
 projects_url:
   url:            /projekty
