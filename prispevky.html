@@ -3,6 +3,8 @@ layout: default
 title: Blog
 ---
 
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+
 {% comment %}
 This kind of programming  makes me want to vomit.
 {% endcomment %}
@@ -36,9 +38,20 @@ No spaces because of later string sorting :/
     <a href="{{ c[2] }}">
       <span class="project-title"> {{ c[1] }} </span>
     </a>
-    <span class="brown-text-color"> {{ c[4] | money_thousands_separator:" "}} {{ c[5] }} </span>
+    <span class="brown-text-color contribution-amount"> {{ c[4] }} </span>
+    <span class="brown-text-color"> {{ c[5] }} </span>
     <div><span class="green-text-color"> {{ c[6] }}
      </span></div>
   </div>
   {% endfor %}
 </div>
+
+<script>
+  $(document).ready(function()
+  {
+    $(".contribution-amount").each(function() {
+      txt = $(this).text();
+      $(this).text(txt.replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,"));
+    });
+  });
+</script>
