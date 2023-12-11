@@ -11,4 +11,16 @@
       {{ content }}
     </div>
   </body>
+
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script>
+      $(document).ready(function()
+      {
+        $(".contribution-amount").each(function() {
+          txt = $(this).text();
+          $(this).text(txt.replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,"));
+        });
+      });
+    </script>
+    
 </html>

@@ -22,7 +22,9 @@ layout: default
 {% for contribution in page.contributions %}
   <li>
     <div>{{ contribution.date | date: "%d.%m.%Y" }}:
-      <span class="brown-text-color"> {{ contribution.amount | money_thousands_separator:" "}} {{ contribution.currency }} </span>
+      <span class="brown-text-color contribution-amount"> {{ contribution.amount }}
+      </span>
+      <span class="brown-text-color"> {{ contribution.currency }} </span>
     </div>
       <span class="green-text-color"> {{ contribution.description }}
       </span>
@@ -30,7 +32,9 @@ layout: default
 {% else %}
   <li>
     <div>{{ page.date | date: "%d.%m.%Y" }}:
-      <span class="brown-text-color"> {{ page.amount | money_thousands_separator: " " }} {{ page.currency }} </span>
+      <span class="brown-text-color contribution-amount">{{ page.amount }}
+      </span>
+      <span class="brown-text-color"> {{ page.currency }} </span>
     </div>
       <span class="green-text-color"> {{ page.description }}
       </span>

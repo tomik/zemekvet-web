@@ -3,8 +3,6 @@ layout: default
 title: Blog
 ---
 
-<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
-
 {% comment %}
 This kind of programming  makes me want to vomit.
 {% endcomment %}
@@ -45,13 +43,3 @@ No spaces because of later string sorting :/
   </div>
   {% endfor %}
 </div>
-
-<script>
-  $(document).ready(function()
-  {
-    $(".contribution-amount").each(function() {
-      txt = $(this).text();
-      $(this).text(txt.replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,"));
-    });
-  });
-</script>
