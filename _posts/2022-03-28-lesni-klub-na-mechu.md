@@ -11,7 +11,7 @@ contributions:
     description: Příspěvek na náklady spojené s provozem klubu
     date: 2023-09-21
 project_url: https://www.skolkanamechu.cz/
-logo: /public/images/lk_na_mechu_logo.jpeg
+logo: lk_na_mechu_logo.jpg
 ---
 
 Lesní klub pro děti ve věku od tří do sedmi let nedaleko obce Libhošť v okrese Nový Jičín. Pravidla lesního klubu vychází z přírodní pedagogiky a environmentální výchovy. Pravidla lesního klubu kladou důraz na rozvoj dovedností dětí vlastními silami v přímém kontaktu s přírodou.

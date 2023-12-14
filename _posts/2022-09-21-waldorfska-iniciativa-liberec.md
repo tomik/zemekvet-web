@@ -5,7 +5,7 @@ amount: 120,000
 currency: CZK
 description: Příspěvek na zařízení dílny pro dřevořezbu a modelování
 project_url: https://www.waldorfliberec.cz/
-logo: /public/images/waldorfska_iniciativa_logo.jpg
+logo: waldorfska_iniciativa_logo.jpg
 ---
 
 Waldorfská iniciativa Liberec je spolkem dlouhodobě se zabývajícím podporou tzv. Waldorfských tříd a rozvojem waldorfské pedagogiky v Libereckém kraji

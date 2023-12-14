@@ -39,7 +39,7 @@ contributions:
     description: Příspěvek na pořádání akcí pro děti
     date: 2023-03-13
 project_url: http://www.tomasslavata.cz
-logo: /public/images/tomas_slavata_logo.jpg
+logo: tomas_slavata_logo.jpg
 ---
 
 Tomáš Slavata je sportovec, trenér a hlavně organizátor sportovních akcí pro děti. Již od brzké dospělosti Tomáš investoval to hlavní - svůj čas a pozornost - do dětí z problémových poměrů a pomáhal jim se postavit na svoje nohy a začlenit se do společnosti. Sám si prošel náročným dětstvím a tak může upřímně předávat svoje vlastní zkušenosti.

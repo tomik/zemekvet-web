@@ -5,7 +5,7 @@ amount: 160,000
 currency: CZK
 description: Příspěvek na výstavbu zázemí pro školku
 project_url: https://www.facebook.com/Školka-neškolka-106084120966806/
-logo: /public/images/skolka_neskolka_logo.jpg
+logo: skolka_neskolka_logo.jpg
 ---
 
 Projekt Školky neškolky je alternativou předškolního vzdělávání, kde se

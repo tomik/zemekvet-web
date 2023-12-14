@@ -5,7 +5,7 @@ amount: 150,000
 currency: CZK
 description: Příspěvek na nákup jurty a náklady s tím spojené
 project_url: http://lkvlcimak.cz/
-logo: /public/images/vlci_mak_logo.jpg
+logo: vlci_mak_logo.jpg
 ---
 
 Spolek Rosteme s přírodou provozuje Lesní klub Vlčí mák v Havlíčkově Brodě. Lesní klub je otevřen pro děti od tří do sedmi let. Využít ho mohou rodiče, kterým je blízká respektující výchova a individuální přístup a chtějí, aby jejich děti trávily co nejvíce času v přírodě.

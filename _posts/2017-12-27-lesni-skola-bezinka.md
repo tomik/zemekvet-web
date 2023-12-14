@@ -5,7 +5,7 @@ amount: 70,000
 currency: CZK
 description: Příspěvek na vybavení prostor
 project_url: http://lkbezinka.cz
-logo: /public/images/lesni_skola_bezinka_logo.jpg
+logo: lesni_skola_bezinka_logo.jpg
 ---
 
 Tento projekt začal, když několik rodičů na Frýdlantsku hledalo alternativní způsob péče o předškolní děti k zavedeným veřejným školkám. Nebyli spokojeni se způsobem, jakým se k dětem často přistupuje. Chtěli, aby jejich děti trávily co nejvíce času venku, aby objevovaly svět za pomoci dospělých průvodců a aby se učili rozvíjet své přirozené nadání. Chtěli, aby učení bylo více hrou a tvořením, než jen osvojováním si znalostí. Chtěli, aby se jejich děti převážně věnovali tomu, co je baví. Aby se učili respektovat jeden druhého, pomáhat si a společně růst. A tak založili spolek Otevřený rodič z.s.

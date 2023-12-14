@@ -2,7 +2,7 @@
 layout: post
 title: Hudba na soutoku
 project_url: https://www.hudbanasoutoku.cz
-logo: /public/images/hudba_na_soutoku_logo.jpg
+logo: hudba_na_soutoku_logo.jpg
 contributions:
   - amount: 120,000
     currency: CZK

@@ -5,7 +5,7 @@ amount: 60,000
 currency: CZK
 description: Příspěvek na prezentaci souboru
 project_url: https://www.facebook.com/AmorAeternus2014/
-logo: /public/images/amor_aeternus_logo.jpg
+logo: amor_aeternus_logo.jpg
 ---
 
 Pražský hudební soubor Amor aeternus ("láska věčná") vznikl roku 2014 na půdě Mezinárodní letní školy staré hudby ve Valticích a věnuje se interpretaci hudby 17. a 18. století na kopie dobových nástrojů. Tvoří jej profesionální hudebníci a absolventi vysokých hudebních škol.

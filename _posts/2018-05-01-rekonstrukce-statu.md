@@ -19,7 +19,7 @@ contributions:
     date: 2021-04-06
     description: Příspěvek na provoz a rozšíření aktivit
 project_url: http://www.rekonstrukcestatu.cz
-logo: /public/images/rekonstrukce_statu_logo.jpg
+logo: rekonstrukce_statu_logo.jpg
 ---
 
 Rekonstrukce státu vznikla v roce 2013 jako platforma neziskových organizací. Od té doby se jí podařilo prosadit 5 protikorupčních a protransparentních zákonů, které v České republice chyběly: Registr smluv, Majetková přiznání politiků, Pravidla pro financování kampaní, Zrušení anonymních akcií a Zákony bez přílepků.

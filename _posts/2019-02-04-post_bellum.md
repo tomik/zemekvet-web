@@ -11,7 +11,7 @@ contributions:
     description: Příspěvek na projekt Paměti našich sousedů a Škola Paměti Národa
     date: 2020-02-19
 project_url: https://www.postbellum.cz/co-delame/projekty/pribehy-nasich-sousedu/
-logo: /public/images/pribehy_nasich_sousedu_logo.jpg
+logo: pribehy_nasich_sousedu_logo.jpg
 ---
 
 <a href="http://www.postbellum.cz">Post Bellum</a> je nezisková organizace, která od roku 2001 vyhledává a nahrává vzpomínky pamětníků klíčových momentů 20. století. Založila ji skupina českých novinářů a historiků, kteří se potkávali na tiskových konferencích a výročních pietních akcích a byli přesvědčeni, že pamětníci musí dostat příležitost svůj příběh vyprávět vcelku, souvisle a detailně.

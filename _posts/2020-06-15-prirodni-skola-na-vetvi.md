@@ -5,7 +5,7 @@ amount: 120,000
 currency: CZK
 description: Příspěvek na postavení zázemí přírodní školy
 project_url: https://skolanavetvi.webnode.cz
-logo: /public/images/prirodni_skola_na_vetvi_logo.jpg
+logo: prirodni_skola_na_vetvi_logo.jpg
 ---
 
 Přírodní škola Na větvi poskytuje alternativní možnost vzdělávání dětem v Brně.

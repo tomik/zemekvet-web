@@ -5,7 +5,7 @@ amount: 120,000
 currency: CZK
 description: Příspěvek na náklady spojené s provozem 
 project_url: https://solithera.cz/
-logo: /public/images/solithera_logo.jpg
+logo: solithera_logo.jpg
 ---
 
 NF Solithera se dlouhodobě zabývá zvyšováním dostupnosti terapeutické péče pro lidi s neurologickým postižením a pro ženy v nouzi. Fond propojuje terapeuty z různých oborů, kteří dávají své práci sociální přesah poskytováním solidárních terapií.

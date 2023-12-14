@@ -5,7 +5,7 @@ amount: 200,000
 currency: CZK
 description: Příspěvek na vybavení zázemí komunitní školy
 project_url: https://kosacci.kosihnizdo.org/
-logo: /public/images/kosi_hnizdo_logo.jpg
+logo: kosi_hnizdo_logo.jpg
 ---
 Spolek Kosí hnízdo se zabývá volnočasovému a mimoškolnímu vzdělávání dětí. Příjemce aplikujepřevážně Montesori principy, lesní pedagogiku a v prožívání koloběhu roku se inspirujeme u Waldorfské pedagogiky. Nabízí celodenní péči pro děti předškolního věku 3 - 6 let, zaměřenou na přirozený a zdravý rozvoj. V rámci předškolní výchovy a vzdělávání je cílem formovat zdravé, sebevědomé děti, které umí vycházet s ostatními ve skupině, znají své možnosti i hranice.
 

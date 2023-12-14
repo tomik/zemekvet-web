@@ -19,7 +19,7 @@ contributions:
   description: Příspěvek na aktivity spolku a výsadbu nových stromů
   date: 2023-01-16
 project_url: http://www.homefortrees.com
-logo: /public/images/home_for_trees_logo.jpg
+logo: home_for_trees_logo.jpg
 ---
 
 Spolek Home for trees se zabývá ochranou a obnovou lesů v ČR. Spolek působí ve spolupráci s odborníky z oboru české ekologie, organizuje sázecí, edukační a uklízecí akce v lesích po celé České republice, pořádá i lesní společenské akce pro firemní klienty na klíč. Vizí spolku jsou bohaté, zdravé lesy plné rozmanitého života všech forem, které k nim přirozeně náleží.

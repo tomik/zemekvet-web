@@ -5,7 +5,7 @@ amount: 50,000
 currency: CZK
 description: Příspěvek na stavbu studny
 project_url: http://www.pohadkovazahrada.cz
-logo: /public/images/pohadkova_zahrada_logo.jpg
+logo: pohadkova_zahrada_logo.jpg
 ---
 
 Pohádková zahrada je místo pro opuštěná a týraná zvířata v Pardubicích. Projekt vystavěli od nuly Romana Vojířová s manželem, přáteli a dobrovolníky. Zhruba hektarový pozemek pronajatý od Policie byl původně v neutěšeném stavu. Tvůrci odstranili skládku, opravili malý domek a celé místo zušlechtili. Vytvořili zde pěkné prostory a zázemí pro různá zvířata - momentálně tu mají například ovce, kozy, králíky, husy a dokonce i poníka.

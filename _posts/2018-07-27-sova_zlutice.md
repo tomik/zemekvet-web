@@ -11,7 +11,7 @@ contributions:
     description: Příspěvek na rekonstrukci kaple a křížků
     date: 2020-05-18
 project_url: http://www.sovazlutice.eu
-logo: /public/images/sova_zlutice.jpg
+logo: sova_zlutice.jpg
 ---
 
 SOVa je volné sdružení přátel, působící v okolí malebného západočeského městečka Žlutice, kteří občas rádi udělají NĚCO pro společnou věc. To NĚCO zahrnuje třeba opravy křížků a soch podél cest, vytvoření naučných stezek, rekonstrukci kapliček a mnoho jiného. Žlutické okolí díky mnohaletému působení členů sdružení opravdu prokouklo. Křížky mnohdy poškozené, ale i úplně vyvrácené dostaly nový lesk a procházka po okolní krajině tím získává nový rozměr.

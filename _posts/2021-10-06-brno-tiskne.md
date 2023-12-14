@@ -11,7 +11,7 @@ contributions:
     date: 2022-12-01
     description: Příspěvek na náklady spojené se školením lektorů sítotisku
 project_url: https://www.brnotiskne.cz
-logo: /public/images/brno_tiskne_logo.jpg
+logo: brno_tiskne_logo.jpg
 ---
 
 Brno Tiskne je otevřená plně vybavená sítotisková dílna v areálu bývalého lihovaru v centru Brna. Spolek usiluje o udržení tohoto řemesla v povědomí široké veřejnosti a aktualizace jeho postupů v kontextu současných možností. Pořádá kurzy sítotisku pro veřejnost, organizuje výstavy a umí se sítotiskem přijet i na festival. Naučí zájemce potisknout trička, tašky, vzory na látku. 

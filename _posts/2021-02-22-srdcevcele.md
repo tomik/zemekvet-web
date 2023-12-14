@@ -2,7 +2,7 @@
 layout: post
 title: Srdcevčele
 project_url: https://srdcevcele.webnode.cz
-logo: /public/images/srdcevcele_logo.jpg
+logo: srdcevcele_logo.jpg
 contributions:
   - amount: 150,000
     currency: CZK

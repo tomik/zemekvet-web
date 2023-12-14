@@ -5,7 +5,7 @@ amount: 60,000
 currency: CZK
 description: Příspěvek na provoz
 project_url: http://www.probonoaliance.cz/cz/
-logo: /public/images/pro_bono_aliance_logo.jpg
+logo: pro_bono_aliance_logo.jpg
 ---
 
 Pro bono aliance sdružuje právníky, kteří usilují o zvýšení účinnosti právního systému při ochraně lidských práv, veřejného zájmu a dalších důležitých hodnot. Zasazuje se proto zejména o větší dostupnost právní pomoci a společensky odpovědný výkon právnických profesí.

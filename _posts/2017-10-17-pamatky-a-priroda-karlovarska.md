@@ -23,7 +23,7 @@ contributions:
     date: 2022-05-05
     description: Příspěvek na provoz projektu
 project_url: http://www.pamatkyaprirodakarlovarska.cz
-logo: /public/images/pamatky_a_priroda_karlovarska_logo.jpg
+logo: pamatky_a_priroda_karlovarska_logo.jpg
 ---
 
 Projekt je regionální internetovou topografickou encyklopedií věnovanou historickým památkám a přírodním krásám Karlovarska a všem, kteří se touto krajinou rádi toulají a objevují ji, a hlavně všem, kteří by ji objevovat chtěli začít.

@@ -11,7 +11,7 @@ contributions:
     description: Příspěvek na náklady spojené s výstavbou Domu s pokoji chráněného bydlení Pekárna
     date: 2023-05-16
 project_url: http://www.benediktus.org
-logo: /public/images/benediktus_logo.jpg
+logo: benediktus_logo.jpg
 ---
 
 Spolek Benediktus je komunita lidí s mentálním postižením a bez něj, kteří žijí každodenní život ve vzájemném společenství. Komunita vytvořená spolkem poskytuje sociální služby mentálně postiženým občanům (jako je např. chráněné bydlení, centrum denních služeb), vytváří chráněná pracovní místa a v neposlední řadě prostřednictvím svých aktivit napomáhá v udržení lokálního kulturního a duchovního dědictví. 

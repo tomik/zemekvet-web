@@ -5,7 +5,7 @@ amount: 30,000
 currency: CZK
 description: Příspěvek na sebezvdělávání
 project_url: https://www.facebook.com/Good-Karma-Catering-1538589379697149
-logo: /public/images/good_karma_catering_logo.jpg
+logo: good_karma_catering_logo.jpg
 ---
 
 Pod značkou Good Karma catering poskytuje kulinářské zážitky Světlana Synáková z Brna. Vaří hodně na jógových akcích, festivalech, ale i soukromých oslavách, svatbách, atd. Světlana se vaření věnuje již dlouhé roky a vaří vynikající veganskou stravu. Kdo vyzkoušel, rád vzpomíná a těší se na další "nášup".

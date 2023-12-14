@@ -23,7 +23,7 @@ contributions:
     description: Příspěvek na projekt Timbalooloo do škol
     date: 2023-04-13
 project_url: http://www.mladiladijazz.cz/detem
-logo: /public/images/mladi_ladi_detem.jpg
+logo: mladi_ladi_detem.jpg
 ---
 
 Mladí ladí dětem je projektem mezinárodního festivalu Mladí ladí jazz, který již šestým rokem přináší hudební a vzdělávací program i těm nejmenším. Jedná se o alternativní hudební vzdělávání, které je v České republice jediné tohoto typu. Projekt probíhá v několika českých regionech ve spolupráci s držitelem Grammy a izraelsko-americkým jazzmanem Oranem Etkinem.

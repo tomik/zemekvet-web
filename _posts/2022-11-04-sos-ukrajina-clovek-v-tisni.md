@@ -5,7 +5,7 @@ amount: 2,500,000
 currency: CZK
 description: Příspěvek na pomoc obětem konfliktu na Ukrajině
 project_url: https://www.clovekvtisni.cz/co-delame/humanitarni-a-rozvojova-pomoc/ukrajina 
-logo: /public/images/sos_ukrajina_logo.JPG
+logo: sos_ukrajina_logo.jpg
 ---
 
 Dne 24. února 2022 začala válka na Ukrajině. Rusko zaútočilo na klíčová ukrajinská města na severu, východě a jihu země. Miliony lidí uprchly ze svých domovů na západní Ukrajinu nebo do sousedních zemí, tisíce civilistů byly zabity. Ruská invaze vyústila v obrovskou humanitární krizi a mohutnou uprchlickou vlnu.

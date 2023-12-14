@@ -5,7 +5,7 @@ amount: 100,000
 currency: CZK
 description: Příspěvek na provozní a jiné náklady spojené s péčí o svěřená zvířata
 project_url: http://druhasanceufrantiska.cz/
-logo: /public/images/druha_sance_logo.jpg
+logo: druha_sance_logo.jpg
 ---
 
 Projekt Druhá šance u Františka se snaží o předcházení zbytečnému usmrcování psů po ukončení lehkých a středně těžkých pokusů v českých výzkumných laboratořích. Psi jsou po nezbytných právních úkonech

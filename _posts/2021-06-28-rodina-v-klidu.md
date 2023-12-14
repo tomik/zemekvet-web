@@ -11,7 +11,7 @@ contributions:
     description: Příspěvek na provoz
     date: 2022-05-16
 project_url: https://www.rodinavklidu.cz
-logo: /public/images/rodina_v_klidu_logo.jpg
+logo: rodina_v_klidu_logo.jpg
 ---
 
 Spolek se zabývá tématy rozšířené rodiny, výpomoci mezi rodinami, sousedskými vztahy a komunitním životem. Pomáhá například v rámci sousedství propojovat lidi hledající výpomoc s těmi, kteří ji mohou nabídnout, nabízí podporu maminkám v šestinedělí, zprostředkovává vznik komunitních prostor, pořádá přednášky, atd.

@@ -5,7 +5,7 @@ amount: 80,000
 currency: CZK
 description: Příspěvek na náklady spojené s provozem lesního klubu
 project_url: www.doubravacek.webnode.cz
-logo: /public/images/doubravacek_logo.jpg
+logo: doubravacek_logo.jpg
 ---
 Doubraváček je malý lesní klub, který sdružuje komunitu rodičů, kteří si vybrali vzdělávat děti ve venkovním prostředí, tedy alternativním vzdělávacím postupem. Hlavním cílem je vzdělávat děti v předškolním věku od 3 do 6 let v souladu
 s přírodou, což podporuje nejen zdravý životní styl dětí, ale předáváme i dětem dobrý příklad odpovědného chování vůči ostatním lidem i životnímu prostředí.

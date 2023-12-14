@@ -5,7 +5,7 @@ amount: 2,500,000
 currency: CZK
 description: Příspěvek na poskytnutí materilální pomoci v ozbrojeném konfliktu na Ukrajině
 project_url: https://www.postbellum.cz/2022/02/vyhlasujeme-sbirku-na-pomoc-ukrajine/
-logo: /public/images/post_bellum_ukrajina_logo.jpg
+logo: post_bellum_ukrajina_logo.jpg
 ---
 
 Post Bellum již přes dva roky spolupracujeme s ukrajinskými novináři a dokumentaristy působícími převážně na západě Ukrajiny. Společně s nimi buduje ukrajinskou Paměť národa, podobný projekt, který příjemce po léta buduje v České Republice. Společně dokumentují místní příběhy především z období stalinistických represí, a další. 

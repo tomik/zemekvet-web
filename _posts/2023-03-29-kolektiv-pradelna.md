@@ -5,7 +5,7 @@ amount: 120,000
 currency: CZK
 description: Příspěvek na náklady spojené s provozem spolku
 project_url: https://www.facebook.com/profile.php?id=100085135896829
-logo: /public/images/pradelna_logo.jpg
+logo: pradelna_logo.jpg
 ---
 
 “Kolektiv Prádelna” vznikl v období zimy 2019/2020 během tříměsíčního rezidenčního projektu žen v sociální tísni uskutečněném v galerii INI prostor, který spolu iniciovala umělkyně Magdalena Kwiatkowska. Aktivity

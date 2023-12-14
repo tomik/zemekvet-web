@@ -5,7 +5,7 @@ amount: 200,000
 currency: CZK
 description: Příspěvek na náklady spojené s provozem kamenných prodejen 
 project_url: http://prestupnistanice.cz/
-logo: /public/images/prestupni_stanice_logo.png
+logo: prestupni_stanice_logo.jpg
 ---
 
 Spolek Labre provozuje dvě kamenné prodejny s pečlivě vybraným použitým zbožím, které zaměstnávají osoby bez domova a skrze bezpečné a stabilní místo jim pomáhá dostat se zpět do většinové společnosti a na otevřený trh práce.

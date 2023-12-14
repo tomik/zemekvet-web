@@ -5,7 +5,7 @@ amount: 720,000
 currency: CZK
 description: Příspěvek na přestavbu základní školy v Dobřanech
 project_url: http://www.trivium.cz
-logo: /public/images/zs_dobrany_logo.jpg
+logo: zs_dobrany_logo.jpg
 ---
 V Dobřanech, malé horské vesnici v Orlických horách, je základní a mateřská škola. Na první pohled niz zvláštního, ale podívejme se blíže. V Dobřanech se v 19. století scházeli čeští obrozenci. Kolem roku 2000 hrozilo místní Základní škole zavření a tak se skupina nadšenců rozhodla navázat na tradici vzdělanosti a školu udržet. Po dlouhých letech práce jsou za nimi vidět výsledky.
 

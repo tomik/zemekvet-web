@@ -23,7 +23,7 @@ contributions:
     date: 2023-02-01
     description: Příspěvek na náklady spojené s provozem školy
 project_url: http://www.zspodmontaci.cz
-logo: /public/images/nachodsky_spolek_rodicu_logo.jpg
+logo: nachodsky_spolek_rodicu_logo.jpg
 ---
 V Náchodě rodiče několika dětí jdoucích do první třídy nebyly spokojeny s nabídkou vzdělávání pro prvňáčky a tak založili Náchodský spolek rodičů začít spolu a začali prosazovat přirozenější přístup ke vzdělání.
 

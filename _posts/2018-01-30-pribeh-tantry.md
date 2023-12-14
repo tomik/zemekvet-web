@@ -4,7 +4,7 @@ title: Příběh Tantry
 amount: 150,000
 currency: CZK
 description: Tvorba dokumentárního filmu
-logo: /public/images/pribeh_tantry_logo.jpg
+logo: pribeh_tantry_logo.jpg
 ---
 
 Režisér Viliam Poltikovič opět míří do své oblíbené Indie, aby západním divákům vyprávěl Příběh Tantry.

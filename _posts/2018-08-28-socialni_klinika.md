@@ -27,7 +27,7 @@ contributions:
     description: Příspěvek na provoz
     date: 2023-01-25
 project_url: http://www.socialniklinika.cz
-logo: /public/images/socialni_klinika_logo.jpg
+logo: socialni_klinika_logo.jpg
 ---
 
 Sociální klinika se zabývá poskytováním psychoterapeutických služeb lidem, kteří si je nemohou finančně dovolit. Mnoho lidí se nachází v těžké životní situaci a terapeutická sezení jim mohou pomoci z této situace ven.

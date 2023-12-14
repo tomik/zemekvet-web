@@ -24,7 +24,7 @@ contributions:
     description: Příspěvek na obnovu památek
     
 project_url: http://dokumentacepamatek.cz
-logo: /public/images/spolek_pro_dokumentaci_a_obnovu_pamatek_karlovarska_logo.jpg
+logo: spolek_pro_dokumentaci_a_obnovu_pamatek_karlovarska_logo.jpg
 ---
 
 Spolek pro dokumentaci a obnovu památek Karlovarska je nestátní, nezisková organizace, sdružující zájemce o historii, architektonické dědictví a kulturní krajinu Karlovarského kraje. Založeno 14. června 2016.

@@ -15,7 +15,7 @@ contributions:
     description: Příspěvek do Fondu pro studenty a absoloveny
     date: 2023-11-02
 project_url: https://www.farmarskaskola.cz/
-logo: /public/images/farmarska_skola_logo.JPG
+logo: farmarska_skola_logo.jpg
 ---
 
 Za projektem Farmářské školy stojí skupina nadšenců, kteří se zabívají vzděláváním v ekologickém a biodynamickém zemědělství. V současné době mají k dispozici 50 hektarů

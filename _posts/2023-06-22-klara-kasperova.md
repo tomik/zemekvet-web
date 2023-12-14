@@ -5,7 +5,7 @@ amount: 120,000
 currency: CZK
 description: Podpora rozvoje ekologického hospodaření
 project_url: https://www.plodyzahrady.cz/post/ekofarma-krizany
-logo: /public/images/tinktury_logo.JPG
+logo: tinktury_logo.jpg
 ---
 Klára Kasperová se dlouhodobě zabývá ekologickým zemědělstvím, udržitelným hospodařením, permakulturou. 
 

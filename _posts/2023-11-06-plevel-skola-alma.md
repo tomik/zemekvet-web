@@ -5,7 +5,7 @@ amount: 80,000
 currency: CZK
 description: Příspěvek na náklady spojené s provozem Svobodné komunitní školy Alma
 project_url: https://zsalma.cz/ 
-logo: /public/images/plevel_skola_alma_logo.jpg
+logo: plevel_skola_alma_logo.jpg
 ---
 
 Spolek Plevel Příjemce stojí za Svobodnou komunitní školou Alma v Chumoutově u Olomouce. Vzdělávání vychází z principů sociokracie a je zaměřena na sdružování dětí na domácím vzdělávání. V tento čas se jedná o skupinu dětí 1.-5. třídy.

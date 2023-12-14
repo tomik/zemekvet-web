@@ -5,7 +5,7 @@ amount: 100,000
 currency: CZK
 description: Příspěvek na náklady spojené s pořízením zázemí pro lesní školku
 project_url: https://www.ctyrizivly.cz/ 
-logo: /public/images/ctyri_zivly_logo.jpg
+logo: ctyri_zivly_logo.jpg
 ---
 
 Spolek Čtyři Živly od září 2023 začal provozovat stejnojmenný lesní klub v Dolním Žlebu u Děčína. Cílem je, aby pro děti bylo přirozené trávit celý rok společně v rytmu přírody, která dává neomezené možnosti výchovy a vzdělávání prožitkem. Důležitý

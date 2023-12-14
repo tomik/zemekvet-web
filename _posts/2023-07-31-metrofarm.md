@@ -5,7 +5,7 @@ amount: 200,000
 currency: CZK
 description: Příspěvek na náklady spojené s provozem spolku
 project_url: https://www.metrofarm.cz/
-logo: /public/images/metrofarm_logo.JPG
+logo: metrofarm_logo.jpg
 ---
 Spolek udržitelný rozvoj svým projektem MetroFarm přispívá k rozšíření ekologického městského a příměstského zahradničení a farmaření. Na dvou pražských lokalitách propojuje městské eko farmaření s komunitním zahradničením a chovem hospodářských zvířat.
 Další náplní příjemce je pořádání skupinových exkurzí a programů pro školy, školky. Cílem je zelené, kvetoucí a potravinově soběstačnější město a příměstské oblasti. 

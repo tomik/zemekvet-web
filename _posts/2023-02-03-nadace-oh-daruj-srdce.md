@@ -5,7 +5,7 @@ amount: 100,000
 currency: CZK
 description: Příspěvek na náklady spojené s pořádanou výzvou Daruj srdce
 project_url: https://www.darujsrdce.com/
-logo: /public/images/daruj_srdce_logo.jpg
+logo: daruj_srdce_logo.jpg
 ---
 
 Posláním Výboru dobré vůle – Nadace Olgy Havlové je pomáhat lidem, kteří se pro svůj nepříznivý zdravotní a sociální stav těžko včleňují do společnosti a nemohou se bez pomoci druhých sami o sebe postarat.

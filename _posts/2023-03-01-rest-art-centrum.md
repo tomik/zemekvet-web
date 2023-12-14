@@ -11,7 +11,7 @@ contributions:
     description: Příspěvek na dodatečné náklady spojené s výstavbou, úpravou a provozními náklady kulturně-komunitního centra v Železném Brodě
     date: 2023-08-10
 project_url: https://restartcentrum.webnode.cz/ 
-logo: /public/images/rest_art_centrum_logo.png
+logo: rest_art_centrum_logo.jpg
 ---
 
 Železnobrodský spolek - Rest. Art. Centrum oživovuje kulturní prostory v Železném Brodě. Pro svou komunitu buduje kulturní centrum, prostor jak ke tvorbě, tak k odpočinku a relaxaci. Cíle spolku jsou zapojení širší veřejnosti do kulturního dění.

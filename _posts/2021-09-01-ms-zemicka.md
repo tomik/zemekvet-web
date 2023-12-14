@@ -24,7 +24,7 @@ contributions:
     date: 2023-10-05
 
 project_url: http://www.zemicka.cz
-logo: /public/images/zemicka_logo.jpg
+logo: zemicka_logo.jpg
 ---
 
 V Milínově u Plzně buduje paní Miloslava Malíková, která má s výchovou dětí celoživotní zkušenosti, krásnou mateřskou školku pro děti inspirovanou přírodním stavitelstvím.
