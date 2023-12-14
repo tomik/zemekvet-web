@@ -5,19 +5,19 @@ title: Blog
 
 <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.js"></script>
-<script src="{{site.baseurl}}/public/js/packery.pkgd.min.js"></script>
+<script src="https://unpkg.com/packery@2.1/dist/packery.pkgd.min.js"></script>
 
   <script>
     $(document).ready(function(){
-      imagesLoaded('.project-previews', function( instance ) {
-        $('.project-previews').packery({
-          // options
+       imagesLoaded('.project-previews', function( instance ) {
+        var elem = document.querySelector('.project-previews');
+        var pckry = new Packery( elem, {
           itemSelector: '.project-preview',
           gutter: 10
         });
       });
     });
-</script>
+  </script>
 
 <div class="project-previews">
   {% for post in site.posts %}
