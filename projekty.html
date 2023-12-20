@@ -9,8 +9,18 @@ title: Blog
 
   <script>
     $(document).ready(function(){
-       imagesLoaded('.project-previews', function( instance ) {
+      var first_page_pckry = null
+      imagesLoaded('.project-previews-first-page', function( instance ) {
+        var elem = document.querySelector('.project-previews-first-page');
+        first_page_pckry = new Packery( elem, {
+          itemSelector: '.project-preview',
+          gutter: 10
+        });
+      });
+
+      imagesLoaded('.project-previews', function( instance ) {
         var elem = document.querySelector('.project-previews');
+        delete first_page_pckry;
         var pckry = new Packery( elem, {
           itemSelector: '.project-preview',
           gutter: 10
@@ -20,7 +30,20 @@ title: Blog
   </script>
 
 <div class="project-previews">
-  {% for post in site.posts %}
+  <div class="project-previews-first-page">
+    {% for post in site.posts limit:20 %}
+    <div class="project-preview">
+      <a href="{{ post.url }}">
+        <img src="/public/images/thumbnails/{{ post.logo }}"/>
+        <div>
+            {{post.title}}
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% for post in site.posts offset:20 %}
   <div class="project-preview">
     <a href="{{ post.url }}">
       <img src="/public/images/thumbnails/{{ post.logo }}"/>
