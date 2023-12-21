@@ -34,7 +34,7 @@ title: Blog
     {% for post in site.posts limit:20 %}
     <div class="project-preview">
       <a href="{{ post.url }}">
-        <img src="/public/images/thumbnails/{{ post.logo }}"/>
+        <img src="{{site.base_url}}/public/images/thumbnails/{{post.logo}}"/>
         <div>
             {{post.title}}
         </div>
@@ -46,7 +46,7 @@ title: Blog
   {% for post in site.posts offset:20 %}
   <div class="project-preview">
     <a href="{{ post.url }}">
-      <img src="/public/images/thumbnails/{{ post.logo }}"/>
+      <img src="{{site.base_url}}/public/images/thumbnails/{{post.logo}}"/>
       <div>
           {{post.title}}
       </div>
