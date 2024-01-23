@@ -14,7 +14,7 @@ contributions:
     currency: CZK
     date: 2022-01-31
     description: Příspěvek na provoz
-  - amount: 200,000
+  - amount: 120,000
     currency: CZK
     date: 2023-01-31
     description: Příspěvek na provoz
