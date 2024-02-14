@@ -8,4 +8,4 @@ project_url: https://zahradaludvikov.webnode.cz/
 logo: ludvikov_logo.jpg
 ---
 
-Spolek Zahrada Ludvíkov provozuje v pronajatých prostorách ve starém kulturním centru v obci Pacov u Moravské Třebové komunitní centrum Výřiště, a dále v sídle spolku provozují hipocentrum pro lidi s fyzickým I psychyckým handicapem.
+Spolek Zahrada Ludvíkov provozuje v pronajatých prostorách ve starém kulturním centru v obci Pacov u Moravské Třebové komunitní centrum Výřiště, a dále v sídle spolku provozují hipocentrum pro lidi s fyzickým I psychickým handicapem.
