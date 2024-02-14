@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     date: 2023-03-01
     description: Příspěvek na provoz a další rozvoj spolku
+  - amount: 120,000
+    currency: CZK
+    date: 2024-01-15
+    description: Příspěvek na pořádání akce "V páteknejím sám"
 project_url: https://nesedimsousedim.cz/
 logo: nesedim_sousedim_logo.jpg
 ---
