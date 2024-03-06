@@ -38,6 +38,10 @@ contributions:
     currency: CZK
     description: Příspěvek na pořádání akcí pro děti
     date: 2023-03-13
+  - amount: 300,000
+    currency: CZK
+    description: Příspěvek na pořádání akcí pro děti
+    date: 2024-03-05
 project_url: http://www.tomasslavata.cz
 logo: tomas_slavata_logo.jpg
 ---
