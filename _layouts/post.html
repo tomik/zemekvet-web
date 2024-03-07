@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post">
-  {% if page.url %}
+  {% if page.project_url %}
     <h1 class="post-title">
     <a class="green-link" href="{{page.project_url}}">
       {{ page.title }}
@@ -13,7 +13,6 @@ layout: default
   {% else %}
     <h1 class="post-title">{{ page.title }}</h1>
   {% endif %}
-
   <img class="project-logo" src="{{site.base_url}}/public/images/photos/{{page.logo}}"/>
   {{ content }}
 
