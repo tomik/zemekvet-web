@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     date: 2023-07-20
     description: Příspěvek na náklady spojené s novým opláštěním jurty a nákupem vybavení
+  - amount: 60,000
+    currency: CZK
+    date: 2024-03-11
+    description: Příspěvek na provozní náklady
 project_url: https://tasmanek.cz
 logo: tasmanek_logo.jpg
 ---
