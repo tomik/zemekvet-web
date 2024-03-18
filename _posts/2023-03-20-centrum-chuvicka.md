@@ -9,7 +9,7 @@ contributions:
   - amount: 60,000
     currency: CZK
     date: 2024-03-18
-    description: Příspěvek na náklady spojené se stavbou keramické pece
+    description: Příspěvek na provoz spolku a nákup vybavení
 project_url: https://www.facebook.com/centrumchuvicka/
 logo: chuvicka_logo.jpg
 ---
