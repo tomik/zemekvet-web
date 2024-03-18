@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Centrum Chůvička
-amount: 200,000
-currency: CZK
-description: Příspěvek na provoz spolku a nákup vybavení
+contributions:
+  - amount: 200,000
+    currency: CZK
+    date: 2023-03-20
+    description: Příspěvek na provoz spolku a nákup vybavení
+  - amount: 60,000
+    currency: CZK
+    date: 2024-03-18
+    description: Příspěvek na náklady spojené se stavbou keramické pece
 project_url: https://www.facebook.com/centrumchuvicka/
 logo: chuvicka_logo.jpg
 ---
