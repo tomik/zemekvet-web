@@ -22,6 +22,10 @@ contributions:
     currency: CZK
     description: Příspěvek na nákup materiálu pro vysazování stromů a práci v terénu, dále na provoz a rozvoj aktivit 
     date: 2023-02-20
+  - amount: 120,000
+    currency: CZK
+    description: Příspěvek na nákup materiálu pro vysazování stromů a práci v terénu, dále na náklady spojené s aktivitami a provozem 
+    date: 2024-03-19
 project_url: http://www.sazimestromy.cz
 logo: sazime_stromy_logo.jpg
 ---
