@@ -26,6 +26,10 @@ contributions:
     currency: CZK
     date: 2023-01-19
     description: Příspěvek na provoz a rozšíření aktivit - organizace osvětových akcí pro veřejnost, pravidelné informování veřejnosti o dění v oblasti plýtvání potravinami, síťování (propojování subjektů), a jiné
+  - amount: 200,000
+    currency: CZK
+    date: 2024-03-20
+    description: Příspěvek na provoz a rozšíření aktivit - organizace osvětových akcí pro veřejnost, pravidelné informování veřejnosti o dění v oblasti plýtvání potravinami, síťování (propojování subjektů), a jiné
 project_url: http://zachranjidlo.cz
 logo: zachran_jidlo_logo.jpg
 ---
