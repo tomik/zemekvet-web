@@ -17,6 +17,8 @@ var hostname = "zemekvet.cz";
 var full_email = username + "@" + hostname ;
 document.write(full_email);
 </script>
+
+Většinou na maily reagujeme do týdne. Pokud se neozveme, tak prosím považujte žádost za zamítnutou, děkujeme za pochopení.
 <!--
 tel: 724848661
 -->
