@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     description: Příspěvek na dodatečné náklady spojené s výstavbou, úpravou a provozními náklady kulturně-komunitního centra v Železném Brodě
     date: 2023-08-10
+  - amount: 25,000
+    currency: CZK
+    description: Příspěvek na náklady spojené s úpravou dvorku při kulturně-komunitním centru v Železném Brodě
+    date: 2024-04-09
 project_url: https://restartcentrum.webnode.cz/ 
 logo: rest_art_centrum_logo.jpg
 ---
