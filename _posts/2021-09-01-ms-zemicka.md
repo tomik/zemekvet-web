@@ -20,12 +20,16 @@ contributions:
     date: 2023-08-09
   - amount: 600,000
     currency: CZK
-    description: Příspěvek Náklady spojené s dokončovacími pracemi na objektu MŠ Zemička, nákup vybavení
+    description: Příspěvek na náklady spojené s dokončovacími pracemi na objektu MŠ Zemička, nákup vybavení
     date: 2023-10-05
   - amount: 400,000
     currency: CZK
-    description: Příspěvek Náklady spojené s dokončovacími pracemi na objektu MŠ Zemička, nákup vybavení
+    description: Příspěvek na náklady spojené s dokončovacími pracemi na objektu MŠ Zemička, nákup vybavení
     date: 2024-01-23
+  - amount: 1,500,000
+    currency: CZK
+    description: Příspěvek na náklady spojené s dokončovacími pracemi na objektu MŠ Zemička, nákup vybavení
+    date: 2024-05-27
 
 project_url: http://www.zemicka.cz
 logo: zemicka_logo.jpg
