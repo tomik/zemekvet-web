@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Rosteme s dětmi
-amount: 200,000
-currency: CZK
-description: Příspěvek na náklady spojené s vybudováním zázemí a vybavením interiéru pro lesní klub
+contributions:
+  - amount: 200,000
+    currency: CZK
+    date: 2023-08-14
+    description: Příspěvek na náklady spojené s vybudováním zázemí a vybavením interiéru pro lesní klub
+  - amount: 400,000
+    currency: CZK
+    date: 2024-05-29
+    description: Příspěvek na provozní náklady a nákup vybavení pro ZŠ Jasan
+
 project_url: https://rostemesdetmi.cz 
 logo: rosteme_s_detmi_logo.jpg
 ---
