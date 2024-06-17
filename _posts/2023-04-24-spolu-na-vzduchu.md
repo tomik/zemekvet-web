@@ -5,11 +5,11 @@ contributions:
   - amount: 120,000
     currency: CZK
     description: Příspěvek na nákup vybavení
-    date: 2022-03-18
+    date: 2023-04-24
   - amount: 200,000
     currency: CZK
     description: Příspěvek na nákup vybavení pro komunitní školu
-    date: 2023-06-17
+    date: 2024-06-17
 project_url: http://skolkanavzduchu.cz/
 logo: spolu_na_vzduchu_logo.jpg
 
