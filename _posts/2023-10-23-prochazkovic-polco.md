@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Procházkovic Polčo
-amount: 200,000
-currency: CZK
-description: Příspěvek na vybudování studny na rodinné farmě
+contributions:
+  - amount: 200,000
+    currency: CZK
+    date: 2023-10-23
+    description: Příspěvek na vybudování studny na rodinné farmě
+  - amount: 120,000
+    currency: CZK
+    date: 2024-07-10
+    description: Příspěvek na náklady spojené s rozšířením pěstebních záhon
 logo: prochazkovic_polco_logo.jpg
 ---
 
