@@ -12,6 +12,10 @@ contributions:
     currency: CZK
     description: Příspěvek na organizaci hudebního festivalu a podpora aktivit spolku
     date: 2023-01-31
+  - amount: 30,000
+    currency: CZK
+    description: Příspěvek na pořádání hudebního festivalu a podpora aktivit spolku
+    date: 2024-08-08
 
 ---
 
