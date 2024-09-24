@@ -22,6 +22,10 @@ contributions:
     currency: CZK
     date: 2023-10-11
     description: Příspěvek na náklady spojené s provozem centra
+  - amount: 60,000
+    currency: CZK
+    date: 2024-09-24
+    description: Příspěvek na náklady spojené s výstavbou stravovacího zařízení provozem centra
     
 project_url: http://centrum-orion.cz
 logo: centrum_orion_logo.jpg
