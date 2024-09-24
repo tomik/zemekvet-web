@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     description: Příspěvek na náklady spojené s výstavbou Domu s pokoji chráněného bydlení Pekárna
     date: 2023-05-16
+  - amount: 200,000
+    currency: CZK
+    description: Příspěvek na náklady spojené s vybavením Domu s pokoji chráněného bydlení Pekárna
+    date: 2024-09-17
 project_url: http://www.benediktus.org
 logo: benediktus_logo.jpg
 ---
