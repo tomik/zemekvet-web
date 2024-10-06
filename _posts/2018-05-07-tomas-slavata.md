@@ -42,6 +42,10 @@ contributions:
     currency: CZK
     description: Příspěvek na pořádání akcí pro děti
     date: 2024-03-05
+  - amount: 300,000
+    currency: CZK
+    description: Příspěvek na nákup nejen čisticích prostředků a jiného vybavení pro zvládnutí úklidu v dětských domovech, které byly postižené povodňoovou situací v září 2024
+    date: 2024-09-23
 project_url: http://www.tomasslavata.cz
 logo: tomas_slavata_logo.jpg
 ---
