@@ -9,6 +9,10 @@ contributions:
   - amount: 50,000
     currency: CZK
     description: Příspěvek na nákup vybanení a pomůcek na sazbu stromů, náklady spojené s environmentální výchovou
+    date: 2024-10-01
+  - amount: 60,000
+    currency: CZK
+    description: Příspěvek na náklady spojené s pořízením potřeb a pomůcek pro přírodovědný a zahradnický kroužek pro děti
     date: 2023-11-10
 project_url: http://hanazajicova.cz/lesni-zahrada/
 logo: lawinia_logo.jpg
