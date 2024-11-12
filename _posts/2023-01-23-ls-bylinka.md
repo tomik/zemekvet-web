@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Lesní školka Bylinka
-amount: 200,000
-currency: CZK
-description: Příspěvek na nákup jurty a náklady s tím spojené
+contributions:
+- amount: 200,000
+  currency: CZK
+  date: 2023-01-23
+  description: Příspěvek na nákup jurty a náklady s tím spojené
+- amount: 50,000
+  currency: CZK
+  date: 2024-11-05
+  description: Příspěvek na pořízení záhonů a vybavení na zahradu
 project_url: https://www.facebook.com/groups/39944038534/user/100083746612751/
 logo: bylinka_logo.jpg
 ---
