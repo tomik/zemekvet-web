@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Hravě v doubravě - LK Doubraváček
-amount: 80,000
-currency: CZK
-description: Příspěvek na náklady spojené s provozem lesního klubu
+contributions:
+  - amount: 80,000
+    currency: CZK
+    description: Příspěvek na provoz
+    date: 2023-06-08
+contributions:
+  - amount: 80,000
+    currency: CZK
+    description: Příspěvek na provoz
+    date: 2024-11-19
 project_url: www.doubravacek.webnode.cz
 logo: doubravacek_logo.jpg
 ---
