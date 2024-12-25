@@ -30,8 +30,11 @@ title: Blog
   </script>
 
 <div class="project-previews">
+  {% assign n = site.posts | size %}
+  {% assign random_posts = site.posts | sample: n %}
+
   <div class="project-previews-first-page">
-    {% for post in site.posts limit:20 %}
+    {% for post in random_posts limit:20 %}
     <div class="project-preview">
       <a href="{{ post.url }}">
         <img src="{{site.base_url}}/public/images/thumbnails/{{post.logo}}"/>
@@ -43,7 +46,7 @@ title: Blog
     {% endfor %}
   </div>
 
-  {% for post in site.posts offset:20 %}
+  {% for post in random_posts offset:20 %}
   <div class="project-preview">
     <a href="{{ post.url }}">
       <img src="{{site.base_url}}/public/images/thumbnails/{{post.logo}}"/>
