@@ -3,7 +3,7 @@ layout: post
 title: Malý farmář
 amount: 150,000
 currency: CZK
-description: Příspěvek na provoz
+description: Příspěvek na vybudování zázemí
 project_url: https://www.maly-farmar.cz
 logo: maly_farmar_logo.jpg
 ---
