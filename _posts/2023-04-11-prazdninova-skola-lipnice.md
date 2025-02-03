@@ -1,15 +1,20 @@
 ---
 layout: post
-title: Prázdninová škola Lipnice
+title: Prázdninová škola Lipnice - kurz Odraz
 contributions:
   - amount: 120,000
     currency: CZK
     date: 2023-04-11
-    description: Příspěvek na náklady spojené s přípravou a realizací devítidenního zážitkového kurzu "Odraz" pro začínající učitele v létě 2023
+    description: Příspěvek na realizaci zážitkového kurzu "Odraz" pro začínající učitele v létě 2023
   - amount: 120,000
     currency: CZK
     date: 2024-04-16
-    description: Příspěvek na náklady spojené s přípravou devítidenního zážitkového kurzu "Odraz" pro začínající učitele v létě 2024
+    description: Příspěvek na realizaci zážitkového kurzu "Odraz" pro začínající učitele v létě 2024
+  - amount: 120,000
+    currency: CZK
+    date: 2025-01-16
+    description: Příspěvek na realizaci zážitkového kurzu "Odraz" pro začínající učitele v létě 2025
+
 project_url: https://psl.cz/
 logo: lipnice_logo.jpg
 ---
