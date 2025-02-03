@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Lesní klub Na Zemi
-amount: 180,000
-currency: CZK
-description: Příspěvek na vytvoření zázemí
+- amount: 180,000
+  currency: CZK
+  date: 2024-03-01
+  description: Příspěvek na vytvoření zázemí
+- amount: 350,000
+  currency: CZK
+  date: 2025-02-03
+  description: Příspěvek na vytvoření zázemí
 project_url: https://lesniklubnazemi.cz
 logo: lesni_klub_na_zemi_logo.jpg
 ---
