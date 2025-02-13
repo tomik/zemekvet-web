@@ -1,12 +1,19 @@
 ---
 layout: post
-title: Stolístek - Lesní klub Blatouch
-amount: 200,000
-currency: CZK
-description: Příspěvek na vybavení zázemí Lesního klubu Blatouch
-project_url: http://stolistek.cz/
+title: Lesní klub Blatouch
+contributions:
+  - amount: 20,000
+    currency: CZK
+    date: 2022-07-17
+    description: Příspěvek na vybavení zázemí Lesního klubu Blatouch
+  - amount: 120,000
+    currency: CZK
+    description: Příspěvek na nákup vybavení
+    date: 2025-02-10
+project_url: https://www.facebook.com/lkblatouch/
 logo: blatouch_logo.jpg
 ---
-Centrum environmentální výchovy Stolístek Linhartice se zabývá environmentálním vzděláváním, výchovou a osvětou a to i pro děti předškolního věku. Součástí této činnosti je i podpora učení venku.
 
-Příspěvek byl poskytnut na vybavení zázemí Lesního klubu Blatouch.
+LK Blatouch se řídí jednoduchým mottem: bláto ani hlína, není pro nás žádná špína :) Děti tráví hodně času venku, případně v jurtě.
+
+V minulosti byl byl klub součástí centra environmentální výchovy Stolístek Linhartice.
