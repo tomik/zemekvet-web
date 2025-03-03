@@ -17,20 +17,22 @@ contributions:
   - amount: 100,000
     currency: CZK
     date: 2023-01-12
-    description: Příspěvek na náklady spojené s provozem centra
+    description: Příspěvek na provoz centra
   - amount: 50,000
     currency: CZK
     date: 2023-10-11
-    description: Příspěvek na náklady spojené s provozem centra
+    description: Příspěvek na provoz centra
   - amount: 60,000
     currency: CZK
     date: 2024-09-24
-    description: Příspěvek na náklady spojené s výstavbou stravovacího zařízení provozem centra
-    
+    description: Příspěvek na rekonstrukci startovacího bytu
+  - amount: 75,000
+    currency: CZK
+    date: 2025-02-19
+    description: Příspěvek na rekonstrukci startovacího bytu a na provoz
+
 project_url: http://centrum-orion.cz
 logo: centrum_orion_logo.jpg
 ---
 
 Centrum Orion pomáhá osobám s handicapem a jejich rodinám v Rychnově nad Kněžnou a okolí vést aktivní a plnohodnotný život. Centrum nabízí sociální služby jak na místě tak přímo v rodinách, je plně vybavené a pořádá pro své klienty i různé pobyty.
-
-
