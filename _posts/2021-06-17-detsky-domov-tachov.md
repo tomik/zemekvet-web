@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     date: 2024-02-14
     description: Příspěvek na nákup podlahové krytiny a jiného vybavení
+  - amount: 20,000
+    currency: CZK
+    date: 2025-03-01
+    description: Příspěvek na nákup vybavení
 
 project_url: https://www.ddtachov.cz
 logo: detsky_domov_tachov_logo.jpg
