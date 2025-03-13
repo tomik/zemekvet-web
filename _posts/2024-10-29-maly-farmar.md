@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Malý farmář
-amount: 150,000
-currency: CZK
-description: Příspěvek na vybudování zázemí
+contributions:
+  - amount: 150,000
+    currency: CZK
+    date: 2024-10-29
+    description: Příspěvek na vybudování zázemí
+  - amount: 300,000
+    currency: CZK
+    description: Příspěvek na vybudování zázemí
+    date: 2025-03-07
 project_url: https://www.maly-farmar.cz
 logo: maly_farmar_logo.jpg
 ---
