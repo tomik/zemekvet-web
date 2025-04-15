@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     description: Příspěvek do Fondu pro studenty a absoloveny
     date: 2023-11-02
+  - amount: 1,000,000
+    currency: CZK
+    description: Příspěvek do rozvoj školní farmy a zřízení nového studijního oboru
+    date: 2025-03-17
 project_url: https://www.farmarskaskola.cz/
 logo: farmarska_skola_logo.jpg
 ---
