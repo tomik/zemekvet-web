@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Reptile helpers
-amount: 150,000
-currency: CZK
-description: Příspěvek na vybudování zázemí
+contributions:
+  - amount: 750,000
+    currency: CZK
+    description: Příspěvek na vybudování zázemí
+    date: 2024-07-02
+  - amount: 250,000
+    currency: CZK
+    description: Příspěvek na provoz
+    date: 2025-04-14
 project_url: https://www.smithanimals.eu/
 logo: reptile_helpers_logo.jpg
 ---
