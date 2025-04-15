@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Komunitní centrum Zahrádka
-amount: 120,000
-currency: CZK
-description: Příspěvek na náklady spojené s pořízením vybavení pro spolek
+contributions:
+  - amount: 120,000
+    currency: CZK
+    description: Příspěvek na provoz a nákup vybavení
+    date: 2023-03-15
+  - amount: 120,000
+    currency: CZK
+    description: Příspěvek na provoz a nákup vybavení
+    date: 2025-03-07
 project_url: https://www.facebook.com/profile.php?id=100084833089243
 logo: kc-zahradka-logo.jpg
 ---
