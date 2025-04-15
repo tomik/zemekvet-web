@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Člověk v tísni - SOS Ukrajina
-amount: 2,500,000
-currency: CZK
-description: Příspěvek na pomoc obětem konfliktu na Ukrajině
-project_url: https://www.clovekvtisni.cz/co-delame/humanitarni-a-rozvojova-pomoc/ukrajina 
+contributions:
+  - amount: 2,500,000
+    currency: CZK
+    description: Příspěvek na materiální pomoc Ukrajině
+    date: 2022-11-04
+  - amount: 1,500,000
+    currency: CZK
+    description: Příspěvek na materiální pomoc Ukrajině
+    date: 2025-03-25
+project_url: https://www.clovekvtisni.cz/co-delame/humanitarni-a-rozvojova-pomoc/ukrajina
 logo: sos_ukrajina_logo.jpg
 ---
 
@@ -15,6 +21,3 @@ Ihned po začátku invaze začala organizace Člověk v tísni poskytovat humani
 V současné době působí organizace Člověk v tísni na západě i východě Ukrajiny. Do obcí kolem frontové linie dodává tisíce litrů pitné vody, pomáhá lidem připravit se na zimu, opravit domy nebo vodovodní systémy. Celkově už na Ukrajině od začátku ruské invaze pomohl více než půl milionu lidí.
 
 Autorka fotografie: Alyona Budagovska
-
-
-
