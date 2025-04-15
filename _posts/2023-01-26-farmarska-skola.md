@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farmářská škola - mateřská a vyšší odborná škola
+title: Farmářská škola
 contributions:
   - amount: 750,000
     currency: CZK
