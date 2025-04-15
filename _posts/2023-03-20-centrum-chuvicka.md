@@ -5,11 +5,15 @@ contributions:
   - amount: 200,000
     currency: CZK
     date: 2023-03-20
-    description: Příspěvek na provoz spolku a nákup vybavení
+    description: Příspěvek na provoz a nákup vybavení
   - amount: 60,000
     currency: CZK
     date: 2024-03-18
-    description: Příspěvek na provoz spolku a nákup vybavení
+    description: Příspěvek na provoz a nákup vybavení
+  - amount: 500,000
+    currency: CZK
+    date: 2025-03-15
+    description: Příspěvek na úpravu zázemí a nákup vybavení
 project_url: https://www.facebook.com/centrumchuvicka/
 logo: chuvicka_logo.jpg
 ---
