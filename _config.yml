@@ -1,11 +1,10 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
-plugins:          [jekyll-paginate, redcarpet, pygments.rb]
+plugins:          [jekyll-paginate, pygments.rb]
 
 # Setup
 title:            Zeměkvět
