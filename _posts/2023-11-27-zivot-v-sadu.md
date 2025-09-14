@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Život v sadu
-amount: 120,000
-currency: CZK
-description: Příspěvek na náklady spojené s provozem, nákup vybavení
+contributions:
+- amount: 120,000
+  currency: CZK
+  date: 2023-11-27
+  description: Příspěvek na provoz a nákup vybavení
+- amount: 120,000
+  currency: CZK
+  date: 2025-04-08
+  description: Příspěvek na nákup vybavení
 project_url: http://www.zivotvsadu.cz/ 
 logo: zivot_v_sadu_logo.jpg
 ---
