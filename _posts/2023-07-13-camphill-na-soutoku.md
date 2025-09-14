@@ -1,11 +1,17 @@
 ---
 layout: post
 title: Camphill na Soutoku
-amount: 200,000
-currency: CZK
-description: Příspěvek na rekonstrukci dvora
 project_url: https://www.camphill-na-soutoku.cz
 logo: camphill_na_soutoku_logo.jpg
+contributions:
+- amount: 200,000
+  currency: CZK
+  date: 2023-07-13
+  description: Příspěvek na rekonstrukci dvora
+- amount: 60,000
+  currency: CZK
+  date: 2025-04-15
+  description: Příspěvek na péči o zvířata
 ---
 
 Camphillské společenství vytváří a poskytuje příležitost lidem se speciálními potřebami učit se, pracovat a společně žít v přátelském a respektujícím prostředí.
