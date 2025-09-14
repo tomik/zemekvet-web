@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Lesní klub Jasánek
-amount: 120,000
-currency: CZK
-description: Nákup vybavení
 project_url: https://www.facebook.com/profile.php?id=61556262742857
+contributions:
+- amount: 120,000
+  currency: CZK
+  date: 2024-08-05
+  description: Příspěvek na nákup vybavení
+- amount: 70,000
+  currency: CZK
+  date: 2025-02-18
+  description: Příspěvek na provoz a nákup vybavení
 logo: lesni_klub_jasanek_logo.jpg
 ---
 
