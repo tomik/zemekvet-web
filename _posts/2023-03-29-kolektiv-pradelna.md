@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Kolektiv Prádelna
-amount: 120,000
-currency: CZK
-description: Příspěvek na náklady spojené s provozem spolku
 project_url: https://www.facebook.com/profile.php?id=100085135896829
+contributions:
+- amount: 120,000
+  currency: CZK
+  date: 2023-03-29
+  description: Příspěvek na provoz
+- amount: 120,000
+  currency: CZK
+  date: 2025-04-03
+  description: Příspěvek na provoz
 logo: pradelna_logo.jpg
 ---
 
