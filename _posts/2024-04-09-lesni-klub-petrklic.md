@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Lesní klub Petrklíč
-amount: 350,000
-currency: CZK
-description: Příspěvek na nákup vybavení
+contributions:
+- amount: 350,000
+  currency: CZK
+  date: 2024-04-09
+  description: Příspěvek na nákup vybavení
+- amount: 120,000
+  currency: CZK
+  date: 2025-04-08
+  description: Příspěvek na provoz
 project_url: http://www.spolek-petrklic.cz/
 logo: lesni_klub_petrklic.jpg
 ---
