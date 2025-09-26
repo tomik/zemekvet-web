@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prokopská Liščcata
+title: Prokopská Liščata
 project_url: https://www.prokopskaliscata.cz/
 contributions:
 - amount: 200,000
