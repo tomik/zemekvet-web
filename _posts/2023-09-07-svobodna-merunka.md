@@ -2,6 +2,7 @@
 layout: post
 title: Svobodná meruňka
 project_url: https://svobodna-merunka.webnode.cz/
+contributions:
 - amount: 50,000
   currency: CZK
   date: 2023-09-07
