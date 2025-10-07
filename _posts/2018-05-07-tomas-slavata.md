@@ -50,6 +50,10 @@ contributions:
     currency: CZK
     description: Příspěvek na pořádání akcí pro děti
     date: 2025-03-01
+  - amount: 600,000
+    currency: CZK
+    description: Příspěvek na pořádání akcí pro děti
+    date: 2025-06-12
 project_url: http://www.tomasslavata.cz
 logo: tomas_slavata_logo.jpg
 ---
@@ -59,3 +63,4 @@ Tomáš Slavata je sportovec, trenér a hlavně organizátor sportovních akcí 
 Tomáš se věnuje několika projektům: pořádá vlastní triatlonovou tour, jezdí na kole k Baltu, vede tréninkové sportovní kempy, pořádá besedy na školách a také se podílí na programu cirku La Putyka. Velkou část toho, co dělá, pořádá z vlastních zdrojů a organizuje to za pomoci své rodiny.
 
 Tomáš dává krásný příklad dětem, že i když je jejich situace náročná, tak je možnost se těžkostem postavit a najít si cestu životem.
+
