@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     description: Příspěvek na náklady spojené s pořízením potřeb a pomůcek pro přírodovědný a zahradnický kroužek pro děti
     date: 2023-11-10
+  - amount: 80,000
+    currency: CZK
+    description: Náklady spojené s pořízením potřeb a pomůcek pro přírodovědný a zahradnický kroužek pro děti
+    date: 2023-10-06
 project_url: http://hanazajicova.cz/lesni-zahrada/
 logo: lawinia_logo.jpg
 ---
