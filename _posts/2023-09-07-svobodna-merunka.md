@@ -1,10 +1,15 @@
 ---
 layout: post
 title: Svobodná meruňka
-amount: 50,000
-currency: CZK
-description: Příspěvek na nákup vybavení pro lesní klub
 project_url: https://svobodna-merunka.webnode.cz/
+- amount: 50,000
+  currency: CZK
+  date: 2023-09-07
+  description: Příspěvek na nákup vybavení pro lesní klub
+- amount: 230,000
+  currency: CZK
+  date: 2025-07-01
+  description: Náklady spojené s vybudováním nového zázemí pro lesní klub
 logo: svobodna_merunka_logo.jpg
 ---
 
