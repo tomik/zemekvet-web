@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Spolek výfuk
-amount: 80,000
-currency: CZK
-description: Příspěvek na provoz a nákup vybavení
 project_url: https://vyfuk.org
+contributions:
+- amount: 80,000
+  currency: CZK
+  date: 2024-09-23
+  description: Příspěvek na provoz a nákup vybavení
+- amount: 60,000
+  currency: CZK
+  date: 2025-06-30
+  description: Náklady spojené s provozem spolku
 logo: spolek_vyfuk_logo.jpg
 ---
 
