@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     description: Příspěvek na náklady spojené s provozem klubu
     date: 2024-10-29
+  - amount: 200,000
+    currency: CZK
+    description: Náklady spojené s provozem školy a nákup vybavení
+    date: 2025-09-02
 description: Příspěvek na náklady spojené s provozem školy
 project_url: https://www.skolavolavec.cz/
 logo: skola_v_roubence_logo.jpg
