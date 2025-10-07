@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Waldorfská iniciativa Liberec
-amount: 120,000
-currency: CZK
-description: Příspěvek na zařízení dílny pro dřevořezbu a modelování
 project_url: https://www.waldorfliberec.cz/
+contributions:
+- amount: 120,000
+  currency: CZK
+  date: 2022-09-021
+  description: Příspěvek na zařízení dílny pro dřevořezbu a modelování
+- amount: 70,000
+  currency: CZK
+  date: 2025-07-106
+  description: Náklady spojené s pořízením keramické pece s příslušenstvím 
 logo: waldorfska_iniciativa_logo.jpg
 ---
 
