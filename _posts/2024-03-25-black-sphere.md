@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Black Sphere
-amount: 250,000
-currency: CZK
-description: Příspěvek na nákup vybavení
 project_url: https://www.facebook.com/blackphere.festival
+contributions:
+- amount: 250,000
+  currency: CZK
+  date: 2024-03-25
+  description: Příspěvek na nákup vybavení
+- amount: 400,000
+  currency: CZK
+  date: 2025-05-09
+  description: Rozvoj řemeslných aktivit a sousedské společnosti v mikroregionu Jeseník
 logo: black_sphere.jpg
 ---
 
