@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     date: 2024-11-05
     description: Příspěvek na nákup vybavení
+  - amount: 200,000
+    currency: CZK
+    date: 2025-06-18
+    description: Příspěvek na nákup vybavení
 project_url: https://olomoucka-dilna.cz/
 logo: olomoucka_dilna_logo.jpg
 ---
