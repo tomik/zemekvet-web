@@ -30,9 +30,14 @@ contributions:
     currency: CZK
     description: Příspěvek na náklady spojené s dokončovacími pracemi na objektu MŠ Zemička, nákup vybavení
     date: 2024-05-27
+  - amount: 1,200,000
+    currency: CZK
+    description: Náklady spojené s nákupem pozemku pro MŠ Zemička a náklady spojené s provozem MŠ
+    date: 2025-06-16
 
 project_url: http://www.zemicka.cz
 logo: zemicka_logo.jpg
 ---
 
 V Milínově u Plzně buduje paní Miloslava Malíková, která má s výchovou dětí celoživotní zkušenosti, krásnou mateřskou školku pro děti inspirovanou přírodním stavitelstvím.
+
