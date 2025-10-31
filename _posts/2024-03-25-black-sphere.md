@@ -11,6 +11,10 @@ contributions:
   currency: CZK
   date: 2025-05-09
   description: Rozvoj řemeslných aktivit a sousedské společnosti v mikroregionu Jeseník
+- amount: 130,000
+  currency: CZK
+  date: 2025-10-31
+  description: Nákup vybavení na paličkování a jiné náklady spojené s projektem Nitky tradice
 logo: black_sphere.jpg
 ---
 
