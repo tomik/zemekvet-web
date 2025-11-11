@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Textilní dílna Rukama Nohama
-amount: 70,000
-currency: CZK
-description: Příspěvek na nákup vybavení
+contributions:
+  - amount: 70,000
+    currency: CZK
+    date: 2024-11-05
+    description: Příspěvek na nákup vybavení
+  - amount: 15,000
+    currency: CZK
+    description: Náklady spojené s nákupem vybavení pro dílnu RUKAMA NOHAMA
+    date: 2025-11-11
 project_url: https://www.xaverius.eu/o-nas/
 logo: rukama_nohama_logo.jpg
 ---
