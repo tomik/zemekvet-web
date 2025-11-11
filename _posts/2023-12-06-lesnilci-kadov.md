@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Lesní klub Lesnílci Kadov 
-amount: 300,000
-currency: CZK
-description: Příspěvek na nákup vybavení a provozní náklady Lesního klubu Lesnílci Kadov
+contributions:
+  - amount: 300,000
+    currency: CZK
+    date: 2023-12-06
+    description: Příspěvek na nákup vybavení a provozní náklady Lesního klubu Lesnílci Kadov
+  - amount: 50,000
+    currency: CZK
+    description: Náklady spojené s výstavbou venkovní umývárny pro Lesní klubu Lesnílci Kadov
+    date: 2025-11-05
 project_url: https://www.lesnilci.eu/kdo-jsme/
 logo: lesnilci_kadov_logo.jpg
 ---
