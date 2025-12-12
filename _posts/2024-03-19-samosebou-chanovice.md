@@ -1,9 +1,15 @@
 ---
 layout: post
 title: SamoSebou Chánovice
-amount: 350,000
-currency: CZK
-description: Příspěvek na provoz a rozvoj aktivit
+contributions:
+- amount: 350,000
+  currency: CZK
+  date: 2024-05-19
+  description: Příspěvek na provoz a rozvoj aktivit
+- amount: 230,000
+  currency: CZK
+  date: 2025-04-15
+  description: Příspěvek na rozvoj školkového klubu
 project_url: https://samosebou-chanovice.cz
 logo: samosebou_chanovice.jpg
 ---
