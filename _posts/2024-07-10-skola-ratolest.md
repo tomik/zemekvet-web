@@ -1,10 +1,17 @@
 ---
 layout: post
 title: Škola Ratolest
-amount: 300,000
-currency: CZK
-description: Příspěvek na provoz
 project_url: https://waldorfrataje.cz/
+contributions:
+- amount: 300,000
+  currency: CZK
+  date: 2024-07-10
+  description: Příspěvek na rekonstrukci výdejny obědů
+- amount: 2,500,000
+  currency: CZK
+  date: 2025-06-24
+  description: Příspěvek na koupi nové budovy školy
+
 logo: skola_ratolest_logo.jpg
 ---
 
