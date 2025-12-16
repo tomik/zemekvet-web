@@ -2,6 +2,7 @@
 layout: post
 title: Chuť pomáhat
 project_url: https://chutpomahat.cz/
+contributions:
  - amount: 300,000
    currency: CZK
    date: 2024-12-15
