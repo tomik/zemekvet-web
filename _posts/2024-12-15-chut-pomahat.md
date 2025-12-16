@@ -1,10 +1,15 @@
 ---
 layout: post
 title: Chuť pomáhat
-amount: 300,000
-currency: CZK
-description: Příspěvek na projekt Teplo babičkám 2024
 project_url: https://chutpomahat.cz/
+ - amount: 300,000
+   currency: CZK
+   date: 2024-12-15
+   description: Příspěvek na projekt Teplo babičkám 2024
+ - amount: 200,000
+   currency: CZK
+   date: 2025-12-08
+   description: Příspěvek na projekt Teplo babičkám 2025
 logo: chut_pomahat_logo.jpg
 ---
 
