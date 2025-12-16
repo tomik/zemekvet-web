@@ -7,6 +7,10 @@ contributions:
   currency: CZK
   date: 2025-06-05
   description: Příspěvek na vybavení zázemí
+- amount: 35,000
+  currency: CZK
+  date: 2025-10-20
+  description: Příspěvek na úpravu školní zahrady
 logo: skola_liska_logo.jpg
 ---
 
