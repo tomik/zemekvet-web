@@ -1,10 +1,16 @@
 ---
 layout: post
 title: Lesní klub Divočátka
-amount: 80,000
-currency: CZK
-description: Příspěvek na provoz
 project_url: https://divocatka.cz/
+contributions:
+- amount: 80,000
+  currency: CZK
+  date: 2024-09-03
+  description: Příspěvek na provoz
+- amount: 230,000
+  currency: CZK
+  date: 2025-12-18
+  description: Příspěvek na provoz a certifikaci
 logo: lk_divocatka_logo.jpg
 ---
 
