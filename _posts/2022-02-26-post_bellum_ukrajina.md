@@ -14,6 +14,10 @@ contributions:
     currency: CZK
     description: Příspěvek na materiální pomoc Ukrajině
     date: 2025-11-11
+  - amount: 1,200,000
+    currency: CZK
+    description: Příspěvek na materiální pomoc Ukrajině
+    date: 2025-12-22
 project_url: https://www.postbellum.cz/2022/02/vyhlasujeme-sbirku-na-pomoc-ukrajine/
 logo: post_bellum_ukrajina_logo.jpg
 ---
