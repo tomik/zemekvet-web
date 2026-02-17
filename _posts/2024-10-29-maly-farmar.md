@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     description: Příspěvek na vybudování zázemí
     date: 2025-03-07
+  - amount: 80,000
+    currency: CZK
+    description: Příspěvek na pokrytí provozního výpadku
+    date: 2026-02-05
 project_url: https://www.maly-farmar.cz
 logo: maly_farmar_logo.jpg
 ---
