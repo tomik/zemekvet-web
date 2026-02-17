@@ -1,9 +1,15 @@
 ---
 layout: post
 title: MC Domeček
-amount: 150,000
-currency: CZK
-description: Příspěvek na provoz a vybavení
+contributions:
+- amount: 150,000
+  currency: CZK
+  date: 2023-06-06
+  description: Příspěvek na provoz a vybavení
+- amount: 200,000
+  currency: CZK
+  date: 2026-01-29
+  description: Příspěvek na provoz a vybavení
 project_url: https://www.mcdomecek.cz
 logo: mc_domecek_logo.jpg
 ---
