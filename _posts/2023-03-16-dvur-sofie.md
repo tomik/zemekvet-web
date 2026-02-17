@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Dvůr Sofie
-amount: 2,500,000
-currency: CZK
-description: Příspěvek na náklady spojené s vybudováním zázemí
+contributions:
+- amount: 2,500,000
+  currency: CZK
+  date: 2023-03-16
+  description: Příspěvek na výstavbu zázemí
+- amount: 2,500,000
+  currency: CZK
+  date: 2026-02-09
+  description: Příspěvek na výstavbu zázemí
 project_url: https://www.dvursofie.cz/ 
 logo: dvur_sofie_logo.jpg
 ---
