@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     date: 2025-01-07
     description: Příspěvek na provoz a nákup vybavení
+  - amount: 230,000
+    currency: CZK
+    date: 2026-01-28
+    description: Příspěvek na provoz a nákup vybavení
 description: Příspěvek na provoz a vybavení
 project_url: https://www.facebook.com/profile.php?id=100088565479063
 logo: lodenicky_parnik_logo.jpg
