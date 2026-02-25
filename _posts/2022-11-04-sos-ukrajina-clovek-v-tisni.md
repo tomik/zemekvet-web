@@ -14,7 +14,7 @@ contributions:
     currency: CZK
     description: Příspěvek na materiální pomoc Ukrajině
     date: 2025-11-18
-  - amount: 1 500,000
+  - amount: 2 000,000
     currency: CZK
     description: Příspěvek na materiální pomoc Ukrajině
     date: 2026-01-29
