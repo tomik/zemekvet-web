@@ -7,9 +7,12 @@ contributions:
   currency: CZK
   date: 2025-04-09
   description: Příspěvek na úpravu zázemí
+- amount: 600,000
+  currency: CZK
+  date: 2026-02-23
+  description: Příspěvek na nákup vybavení
 logo: spolek_pro_remeslo_a_umeni_logo.jpg
 ---
 
 Spolek se pod vedením pana Josefa Salaby věnuje pořádáním putovních i pobytových řemeslných táborů pro děti. Tábory zaměřené na řemeslnou tvorbu a společné pátrání s dětmi co je to vlastně to umění pořádá společně s přáteli již 14 let ve Vraních horách v osadě Bečkov. Děti se setkávají s kovařinou, řezbářstvím, odléváním z bronzu, keramikou, tkaním , malováním v krajině.
 
-Příspěvek byl poskytnut na nutné úpravy tábořiště. 
