@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Lesní klub Dubínek
-amount: 150,000
-currency: CZK
 description: Výstavba zázemí
+contributions:
+  - amount: 150,000
+    currency: CZK
+    date: 2024-12-11
+    description: Příspěvek na výstavbu zázemí LK
+  - amount: 650,000 
+    currency: CZK
+    date: 2026-02-23
+    description: Příspěvek na koupi jurty
 project_url: https://dubinek.cz/
 logo: lk_dubinek_logo.jpg
 ---
