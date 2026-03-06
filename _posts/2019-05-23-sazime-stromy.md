@@ -30,6 +30,10 @@ contributions:
     currency: CZK
     description: Příspěvek na péči o vysazemé stromy a keře
     date: 2025-03-05
+  - amount: 200,000
+    currency: CZK
+    description: Příspěvek na péči o vysazemé stromy a keře
+    date: 2026-03-05
 project_url: http://www.sazimestromy.cz
 logo: sazime_stromy_logo.jpg
 ---
