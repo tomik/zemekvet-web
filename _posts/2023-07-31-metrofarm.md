@@ -10,6 +10,10 @@ contributions:
   currency: CZK
   date: 2024-11-07
   description: Příspěvek na provoz spolku a budování nového zázemí v Letňanech
+- amount: 500,000
+  currency: CZK
+  date: 2026-03-04
+  description: Příspěvek na nákup vybavení a rozvoj zázemí v Letňanech i dalších lokalitách
 project_url: https://www.metrofarm.cz/
 logo: metrofarm_logo.jpg
 ---
