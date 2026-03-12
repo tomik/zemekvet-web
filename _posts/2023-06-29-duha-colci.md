@@ -1,12 +1,19 @@
 ---
 layout: post
 title: Duha Čolci Černčice
-amount: 200,000
-currency: CZK
-description: Příspěvek na náklady spojené s provozem spolku a nákupem vybavení
+contributions:
+- amount: 200,000
+  currency: CZK
+  date: 2023-06-29
+  description: Příspěvek na provoz a nákup vybavení
+- amount: 50,000
+  currency: CZK
+  date: 2026-03-10
+  description: Příspěvek na nákup vybavení
 project_url: https://www.duha.cz/duzina/duha-colci
 logo: duha_colci_cernice_logo.jpg
 ---
+
 Pobočný spolek Duha - Čolci Černčice vznikl v roce 2017. Náplň činnosti oddílu v Černčicích stojí na principech zážitkové pedagogiky. Dětem nabízí v rámci pravidelných setkání pestrou paletu volnočasových aktivit,zejména
 se orientuje na ochranu a poznávání přírody, rozvoj enviromentání senzitivity prostřednictvím přímého kontaktu se zvířaty. 
 
