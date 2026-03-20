@@ -10,4 +10,4 @@ contributions:
 logo: colek_rovecne_logo.jpg
 ---
 
-Lesní klub Jasánek je nově otevřený prostor pro děti předškolního věku ve Velkých Hostěrádkách. Funguje v rámci ekofarmy, která mimo jiné provozuje i sociální podnik, pěstuje bylinky, zabývá se vzděláváním v oblasti ekologického zemědělství, atd.
+Spolek Čolek Rovečné pracuje s dětmi a krajinou. Mění zanedbaná místa na veřejný prostor a biotopy. Nechává si radit od odborníků. Spolupracuje s místními organizacemi a ostatními spolky. Je pyšný na přeměnu plácku nad hasičskou nádrží, na postavení otevřené klubovny a vybudování kamenné terasy s "randící lavičkou" pod starými javory. 
