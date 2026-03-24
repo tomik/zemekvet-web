@@ -18,26 +18,8 @@ var full_email = username + "@" + hostname ;
 document.write(full_email);
 </script>
 
-Většinou na maily reagujeme do týdne. Pokud se neozveme, tak prosím považujte žádost za zamítnutou, děkujeme za pochopení.
-<!--
-tel: 724848661
--->
+Žádostí nám chodí velké množství. Většinou reagujeme do 14 dnů. Pokud se neozveme, tak prosím považujte žádost za zamítnutou, děkujeme za pochopení.
 
 IČO 06349854
 spolek je zapsaný u Krajského soudu v Hradci Králové
 </pre>
-
-<!--
-## Podpora
-
-<p>
-Většina našich zdrojů pochází ze soukromých darů. Pokud byste se chtěli
-zapojit do činnosti Zeměkvětu a přispět na projekty, které podporujeme, tak můžete
-přispět na naše aktivity.
-</p>
-
-<p>
-<pre>
-Bankovní spojení: 2000291476/2010
-</pre>
-</p> -->
