@@ -5,7 +5,7 @@ contributions:
 - amount: 850,000
   currency: CZK
   date: 2026-01-27
-  description: Příspěvek na stěhování školy
+  description: Příspěvek na rozjezd soukromé školy
 project_url: https://www.montessoritrutnov.cz/
 logo: montessori_trutnov_logo.jpg
 ---
@@ -19,5 +19,3 @@ Naším cílem je vychovat mladé lidi, kteří znají sami sebe, umí pracovat 
 Součástí výuky je bilingvní prostředí s anglicky mluvícím průvodcem, propojení učení s praxí a postupně i mezinárodní spolupráce s dalšími Montessori školami v Evropě. Chceme, aby naši absolventi odcházeli dobře připraveni nejen na další studium, ale především na život v proměnlivém a propojeném světě.
 
 (převzato z webu projektu)
-
-Příspěvek byl poskytnut na provoz družiny.
