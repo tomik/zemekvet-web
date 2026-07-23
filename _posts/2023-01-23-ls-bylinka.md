@@ -10,6 +10,10 @@ contributions:
   currency: CZK
   date: 2024-11-05
   description: Příspěvek na pořízení záhonů a vybavení na zahradu
+- amount: 450,000
+  currency: CZK
+  date: 2026-03-17
+  description: Příspěvek na pořízení jurty
 project_url: https://www.facebook.com/groups/39944038534/user/100083746612751/
 logo: bylinka_logo.jpg
 ---
