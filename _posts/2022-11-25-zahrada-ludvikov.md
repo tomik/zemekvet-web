@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Zahrada Ludvíkov
-amount: 160,000
-currency: CZK
-description: Příspěvek na pokrytí nákladů spojených s koupí maringotek pro hipocentrum
+contributions:
+- amount: 160,000
+  currency: CZK
+  date: 2022-11-25
+  description: Příspěvek na nákup maringotek pro hipocentrum
+- amount: 350,000
+  currency: CZK
+  date: 2026-03-20
+  description: Přspěvek na nákup materiálu pro rekonstrukci zázemí
 project_url: https://zahradaludvikov.webnode.cz/
 logo: ludvikov_logo.jpg
 ---
