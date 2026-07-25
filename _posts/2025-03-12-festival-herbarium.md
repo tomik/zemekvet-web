@@ -7,6 +7,10 @@ contributions:
   currency: CZK
   date: 2025-03-12
   description: Příspěvek na konání festivalu
+- amount: 25,000
+  currency: CZK
+  date: 2025-03-30
+  description: Příspěvek na konání festivalu
 logo: festival_herbarium_logo.jpg
 ---
 
