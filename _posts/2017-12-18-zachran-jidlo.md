@@ -34,6 +34,10 @@ contributions:
     currency: CZK
     date: 2025-03-25
     description: Příspěvek na provoz
+  - amount: 600,000
+    currency: CZK
+    date: 2025-03-30
+    description: Příspěvek na provoz
 project_url: http://zachranjidlo.cz
 logo: zachran_jidlo_logo.jpg
 ---
