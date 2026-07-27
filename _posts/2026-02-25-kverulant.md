@@ -6,6 +6,10 @@ contributions:
   currency: CZK
   date: 2026-02-25
   description: Přspěvek na provoz
+- amount: 80,000
+  currency: CZK
+  date: 2026-04-02
+  description: Přspěvek na provoz
 project_url: https://www.kverulant.org/
 logo: kverulant_logo.jpg
 ---
