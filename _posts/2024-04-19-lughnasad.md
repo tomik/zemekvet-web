@@ -10,6 +10,10 @@ contributions:
     currency: CZK
     description: Příspěvek na pořádání festivalu
     date: 2025-02-26
+  - amount: 60,000
+    currency: CZK
+    description: Příspěvek na pořádání festivalu
+    date: 2025-04-14
 project_url: https://www.lughnasad.cz/
 logo: lughnasad.jpg
 ---
