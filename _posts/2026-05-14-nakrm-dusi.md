@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Lesní mateřská škola Včelka
+title: Nakrm duši
 contributions:
-- amount: 230,000
+- amount: 350,000
   currency: CZK
-  date: 2026-05-27
-  description: Přspěvek na výstavbu zázemí
-project_url: https://www.lmsostrava.cz/
-logo: lms_vcelka_logo.jpg
+  date: 2026-05-14
+  description: Přspěvek na budování semínkové a květinové farmy
+project_url: https://www.nakrmdusi.cz/
+logo: nakrm_dusi_logo.jpg
 ---
 
-Školka se nachází v Ostravě-Výškovicích, Staré Bělé v blízkosti Bělského lesa. Lesní mateřská škola je alternativní typ mateřské školy. V lesní školce trávíme s dětmi většinu času venku protože si uvědomujeme jak je kontakt s přírodou pro děti důležitý.
+Pěstujeme zeleninu a květiny na semínka, zkoušíme jak různé odrůdy rostou, chutnají a vypadají. Snažíme se pro vás hledat a pěstovat odrůdy a kultivary, které jsou vhodné na pěstování v našich podmínkách. Snažíme se k přírodě přistupovat co nejlépe umíme, tak abychom nebyli jediní kdo z toho bude mít radost.
 
-Zázemí slouží pouze k příležitostnému pobytu, je vytápěné, slouží k uložení náhradního oblečení, k odpočinku a ke stravování. S dětmi jsme venku za každého počasí.
+Kromě semínek se v sezóně věnujeme vazbě kytic z květin, které si sami pěstujeme, trháme na loukách nebo nakupujeme od lokálních pěstitelů. Chystáme také květinové výzdoby na svatby, pohřby nebo jiné eventy. Naše kytice jsou sezónní s nádechem a odrazem aktuálního období.
 
 (převzato z webu projektu)
