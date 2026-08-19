@@ -7,6 +7,10 @@ contributions:
   currency: CZK
   date: 2025-10-23
   description: Příspěvek na pořízení kamen a kouřovodu do jurty
+- amount: 50,000
+  currency: CZK
+  date: 2026-06-04
+  description: Příspěvek na pokrytí provozního výpadku
 logo: lk_pod_starym_dubem_logo.jpg
 ---
 
