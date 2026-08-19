@@ -11,6 +11,10 @@ contributions:
   currency: CZK
   date: 2025-06-30
   description: Náklady spojené s provozem spolku
+- amount: 60,000
+  currency: CZK
+  date: 2026-05-25
+  description: Náklady spojené s provozem spolku
 logo: spolek_vyfuk_logo.jpg
 ---
 
