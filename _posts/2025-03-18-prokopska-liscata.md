@@ -7,6 +7,10 @@ contributions:
   currency: CZK
   date: 2025-03-18
   description: Příspěvek na provoz a nákup vybavení
+- amount: 200,000
+  currency: CZK
+  date: 2026-05-25
+  description: Příspěvek na úpravu zázemí
 logo: prokopska_liscata_logo.jpg
 ---
 
