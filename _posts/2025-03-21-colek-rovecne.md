@@ -7,6 +7,10 @@ contributions:
   currency: CZK
   date: 2025-03-21
   description: Příspěvek na revitalizaci krajiny a komunitní práce v Rovečném
+- amount: 300,000
+  currency: CZK
+  date: 2026-07-14
+  description: Příspěvek na revitalizaci krajiny a komunitní práce v Rovečném
 logo: colek_rovecne_logo.jpg
 ---
 
