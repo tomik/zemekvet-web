@@ -7,6 +7,10 @@ contributions:
   currency: CZK
   date: 2025-08-04
   description: Příspěvek na rekonstrukci a nákup vybavení
+- amount: 350,000
+  currency: CZK
+  date: 2026-07-14
+  description: Příspěvek na rekonstrukci a nákup vybavení
 logo: skola_minehava_logo.jpg
 ---
 
