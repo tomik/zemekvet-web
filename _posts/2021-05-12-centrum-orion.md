@@ -30,6 +30,10 @@ contributions:
     currency: CZK
     date: 2025-02-19
     description: Příspěvek na rekonstrukci startovacího bytu a na provoz
+  - amount: 120,000
+    currency: CZK
+    date: 2026-09-01
+    description: Příspěvek na modernizaci prostor a nákup vybavení
 
 project_url: http://centrum-orion.cz
 logo: centrum_orion_logo.jpg
