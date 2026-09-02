@@ -13,7 +13,11 @@ contributions:
   - amount: 250,000
     currency: CZK
     date: 2023-11-16
-    description: Příspěvek na náklady spojené s provozem ZŠ Svobodné školy Chotěboř a lesním klubem Šalamounkův Dvoreček
+    description: Příspěvek na provoz ZŠ Svobodné školy Chotěboř a lesního klubu Šalamounkův Dvoreček
+  - amount: 350,000
+    currency: CZK
+    date: 2026-08-04
+    description: Příspěvek na výstavbu zázemí
 project_url: https://www.svobodnaskolachotebor.cz
 logo: sprsv_logo.jpg
 ---
