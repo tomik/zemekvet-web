@@ -22,6 +22,10 @@ contributions:
     currency: CZK
     description: Příspěvek na projekt Timbalooloo do škol
     date: 2023-04-13
+  - amount: 300,000
+    currency: CZK
+    description: Příspěvek na pokrytí provozního výpadku
+    date: 2026-06-25
 project_url: http://www.mladiladijazz.cz/detem
 logo: mladi_ladi_detem.jpg
 ---
