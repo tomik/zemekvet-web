@@ -9,7 +9,7 @@ contributions:
   description: Příspěvek na pořádání soutěže
 - amount: 30,000
   currency: CZK
-  date: 2025-06-25
+  date: 2026-06-25
   description: Příspěvek na pořádání soutěže
 logo: galakticka_vedomostni_vyzva_logo.jpg
 ---
