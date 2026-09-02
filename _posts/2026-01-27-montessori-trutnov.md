@@ -6,6 +6,10 @@ contributions:
   currency: CZK
   date: 2026-01-27
   description: Příspěvek na rozjezd soukromé školy
+- amount: 500,000
+  currency: CZK
+  date: 2026-08-03
+  description: Příspěvek na rekonstrukci prostor a nákup vybavení
 project_url: https://www.montessoritrutnov.cz/
 logo: montessori_trutnov_logo.jpg
 ---
