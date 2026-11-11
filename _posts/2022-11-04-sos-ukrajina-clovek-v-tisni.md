@@ -22,6 +22,10 @@ contributions:
     currency: CZK
     description: Příspěvek na materiální pomoc Ukrajině
     date: 2026-05-25
+  - amount: 1,300,000
+    currency: CZK
+    description: Příspěvek na materiální pomoc Ukrajině
+    date: 2026-09-22
 project_url: https://www.clovekvtisni.cz/co-delame/humanitarni-a-rozvojova-pomoc/ukrajina
 logo: sos_ukrajina_logo.jpg
 ---
