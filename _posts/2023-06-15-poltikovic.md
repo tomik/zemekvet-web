@@ -1,9 +1,15 @@
 ---
 layout: post
-title: Viliam Poltikovič - film o himálajských orákulích
-amount: 200,000
-currency: CZK
-description: Příspěvek na náklady spojené s dokončením filmu o himálajských orákulích
+title: Viliam Poltikovič 
+contributions:
+  - amount: 200,000
+    currency: CZK
+    description: Příspěvek na film o himálajských orákulích
+    date: 2023-06-15
+  - amount: 250,000
+    currency: CZK
+    description: Příspěvek na film tajemství zrození
+    date: 2026-10-08
 project_url: https://www.csfd.cz/tvurce/32487-viliam-poltikovic/prehled/
 logo: poltikovic_logo.jpg
 ---
