@@ -15,6 +15,10 @@ contributions:
   currency: CZK
   date: 2026-02-03
   description: Příspěvek na úpravu zázemí
+- amount: 170,000
+  currency: CZK
+  date: 2026-09-14
+  description: Příspěvek na nákup vybavení
 logo: skola_liska_logo.jpg
 
 ---
