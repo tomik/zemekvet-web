@@ -1,9 +1,15 @@
 ---
 layout: post
 title: Pravý Hradec
-amount: 80,000
-currency: CZK
-description: Příspěvek na vybudování zázemí
+contributions:
+  - amount: 80,000
+    currency: CZK
+    description: Příspěvek na vybudování zázemí
+    date: 2024-05-15
+  - amount: 80,000
+    currency: CZK
+    description: Příspěvek na projekt když učí příroda
+    date: 2026-09-13
 project_url: https://www.pravyhradec.cz/
 logo: pravy_hradec.jpg
 ---
