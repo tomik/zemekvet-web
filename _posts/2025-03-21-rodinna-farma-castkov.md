@@ -7,6 +7,10 @@ contributions:
   currency: CZK
   date: 2025-03-21
   description: Příspěvek na dobudování zázemí
+- amount: 350,000
+  currency: CZK
+  date: 2026-09-11
+  description: Příspěvek na nákup vybavení pro farmu
 logo: rodinna_farma_castkov_logo.jpg
 ---
 
