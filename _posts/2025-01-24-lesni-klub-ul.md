@@ -6,6 +6,10 @@ contributions:
     currency: CZK
     date: 2025-01-24
     description: Příspěvek na provoz
+ - amount: 50,000
+    currency: CZK
+    date: 2026-10-19
+    description: Příspěvek na pokrytí provozního výpadku
 project_url: https://klubul.cz/
 logo: lesni_klub_ul_logo.jpg
 ---
