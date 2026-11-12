@@ -9,7 +9,7 @@ contributions:
   description: Příspěvek na rekonstrukci prostor školy
 - amount: 100,000
   currency: CZK
-  date: 2026-10-20
+  date: 2026-11-05
   description: Příspěvek na pokrytí provozního výpadku
 
 logo: skola_pod_horou_tabor_logo.jpg
