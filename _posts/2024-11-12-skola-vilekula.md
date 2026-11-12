@@ -1,10 +1,16 @@
 ---
 layout: post
-title: Škola Vilekula
-amount: 100,000
-currency: CZK
-description: Příspěvek na nákup vybavení
+title: Škola Vilekula 	
 project_url: https://skolavilekula.cz/
+contributions:
+  - amount: 100,000
+    currency: CZK
+    date: 2024-11-12
+    description: Příspěvek na nákup vybanení
+  - amount: 100,000
+    currency: CZK
+    description: Příspěvek na nákup vybanení
+    date: 2026-11-15
 logo: skola_vilekula_logo.jpg
 ---
 
