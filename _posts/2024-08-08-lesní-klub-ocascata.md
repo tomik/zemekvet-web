@@ -11,6 +11,10 @@ contributions:
   currency: CZK
   date: 2025-07-12
   description: Náklady spojené s vybudováním zázemí lesního klubu
+- amount: 50,000
+  currency: CZK
+  date: 2026-10-23
+  description: Náklady na pořízení kamen do jurty
 logo: lesni_klub_ocascata_logo.jpg
 ---
 
