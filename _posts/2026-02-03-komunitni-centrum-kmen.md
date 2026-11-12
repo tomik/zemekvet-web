@@ -6,6 +6,10 @@ contributions:
   currency: CZK
   date: 2026-02-03
   description: Příspěvek na nastartování projektu
+- amount: 120,000
+  currency: CZK
+  date: 2026-10-23
+  description: Příspěvek na provozní výpadek 
 project_url: https://kmen.webnode.cz/
 logo: komunitni_centrum_kmen_logo.jpg
 ---
