@@ -58,6 +58,10 @@ contributions:
     currency: CZK
     description: Příspěvek na pořádání akcí pro děti
     date: 2026-02-19
+  - amount: 200,000
+    currency: CZK
+    description: Příspěvek na nákup vybavení
+    date: 2026-10-15
 project_url: http://www.tomasslavata.cz
 logo: tomas_slavata_logo.jpg
 ---
